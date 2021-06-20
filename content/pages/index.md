@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Digital Marketing Expert in Bangalore
-    subtitle: Get a Free Website Audit Todat
+    subtitle: Get a Free Website Audit Today!
     actions:
       - label: Learn More
         url: /features
