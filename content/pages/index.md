@@ -91,7 +91,7 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: Get in Touch With Me
+    title: Free Website Audit for a Limited Time
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
