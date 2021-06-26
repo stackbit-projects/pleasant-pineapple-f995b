@@ -45,10 +45,20 @@ sections:
             url: /features
             style: secondary
       - title: Paid Campaigns
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Google's decision to offer AdWords, which is designed for businesses
+          to create paid campaigns using targeted keywords, to its users has
+          paved the way for social media giants like Facebook to jump into the
+          ring, offering their own ad networks to Google AdWords users, all of
+          which are benefiting from increased visibility and credibility. To
+          compete with such giants as Facebook, and particularly for the highly
+          competitive market created by mobile users, it is crucial for Internet
+          businesses to adopt effective methods of search engine marketing that
+          include paid social media advertising. Although there are alternatives
+          available such as third-party ad networks, these are not seen as being
+          as effective in the fight against spam, and in fact some have been
+          labeled as 'landmine' for those not fully trained in the ways of
+          search engine marketing.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
