@@ -68,10 +68,16 @@ sections:
             url: /features
             style: secondary
       - title: Link Building & Content
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          For anyone who has ever searched for tips on how to optimize his or
+          her website for increased web traffic, one cannot fail to mention link
+          building as one of the most important factors. Link building is a
+          simple process in which websites create and build links to each other.
+          These links are usually created from other websites that want to point
+          their site to yours in order to attract you as their 'customer.' The
+          more quality links pointing at your site, the higher your site will
+          rank in search engine results and therefore increase the traffic to
+          your site.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
