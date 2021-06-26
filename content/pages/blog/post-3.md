@@ -14,7 +14,7 @@ excerpt: >-
   search engine results. Search engine optimization or SEO involves optimizing
   your site by using different techniques, including link building.
 seo:
-  title: Cur Ipse Pythagoras Et Aegyptum Lustravit
+  title: Best Link Building Tips to Boost Your Ranking
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
   extra:
     - name: 'og:type'
