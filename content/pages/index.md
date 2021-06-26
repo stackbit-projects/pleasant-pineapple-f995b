@@ -103,7 +103,7 @@ sections:
     background_color: gray
 seo:
   title: Digital Marketing Expert in Bangalore
-  description: The preview of the Starter theme
+  description: Digital marketing expert for all your website services. Get a free website audit today.
   extra:
     - name: 'og:type'
       value: website
