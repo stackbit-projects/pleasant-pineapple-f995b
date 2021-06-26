@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:title'
       value: Cur Ipse Pythagoras Et Aegyptum Lustravit
     - name: 'twitter:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: 'Understand the best link building tips to boost your website ranking'
     - name: 'twitter:image'
       value: images/3.png
       relativeUrl: true
