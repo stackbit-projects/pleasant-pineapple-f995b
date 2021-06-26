@@ -112,7 +112,7 @@ seo:
       value: Digital Marketing Expert in Bangalore
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: Digital marketing expert for all your website services. Get a free website audit today.
       keyName: property
     - name: 'og:image'
       value: images/starter-preview.png
