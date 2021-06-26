@@ -123,7 +123,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Starter Theme
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: Digital marketing expert for all your website services. Get a free website audit today.
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
