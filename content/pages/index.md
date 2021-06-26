@@ -96,7 +96,7 @@ sections:
       Get in touch with me for auditing your website. For a limited time,
       Website audit is done for free of cost!
     actions:
-      - label: Learn More
+      - label: Get Your Free Website Audit
         url: /features
         style: primary
     has_background: true
