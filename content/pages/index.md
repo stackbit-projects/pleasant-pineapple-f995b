@@ -26,10 +26,17 @@ sections:
     title: My Services
     features:
       - title: Search Engine Optimization
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Search Engine Optimization (SEO) is an important component of online
+          marketing. There are many ways to promote your business online, but if
+          you want your business to be noticed by potential customers, SEO is
+          the answer. Search engine optimization deals with the arrangements and
+          rules that web pages are submitted to the major search engines, such
+          as Yahoo and Google. The search engines determine which submissions
+          are more relevant to the keywords being used to search for the
+          particular pages. SEO deals with the techniques of increasing the
+          volume and quality of site traffic from these engines by optimizing
+          the web page.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
