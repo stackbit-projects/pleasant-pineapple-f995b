@@ -24,7 +24,7 @@ seo:
       value: Best Link Building Tips to Boost Your Website Ranking
       keyName: property
     - name: 'og:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: 'Understand the best link building tips to boost your website ranking'
       keyName: property
     - name: 'og:image'
       value: images/3.png
