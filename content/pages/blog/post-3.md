@@ -7,7 +7,7 @@ categories:
 tags:
   - Stackbit
   - JAMstack
-image: images/3.png
+image: /images/1.png
 image_alt: Post 3 placeholder image
 excerpt: >-
   Link building is a well-known process to increase your website ranking and
