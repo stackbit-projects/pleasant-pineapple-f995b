@@ -6,7 +6,6 @@ categories:
   - content/data/categories/tutorials.yaml
 tags:
   - digital marketing
-  - Netlify
 image: /images/1.png
 image_alt: Post 5 placeholder image
 excerpt: >-
