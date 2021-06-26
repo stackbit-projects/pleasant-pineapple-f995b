@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: Best Link Building Tips to Boost Your Website Ranking
     - name: 'twitter:description'
       value: 'Understand the best link building tips to boost your website ranking'
     - name: 'twitter:image'
