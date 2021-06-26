@@ -5,7 +5,7 @@ author: content/data/team/gordon-norman.yaml
 categories:
   - content/data/categories/tutorials.yaml
 tags:
-  - Stackbit
+  - digital marketing
   - Netlify
 image: /images/1.png
 image_alt: Post 5 placeholder image
