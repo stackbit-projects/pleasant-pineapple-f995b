@@ -121,7 +121,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Starter Theme
+      value: Digital Marketing Expert in Bangalore
     - name: 'twitter:description'
       value: Digital marketing expert for all your website services. Get a free website audit today.
     - name: 'twitter:image'
