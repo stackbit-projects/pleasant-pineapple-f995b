@@ -93,8 +93,8 @@ sections:
   - type: cta_section
     title: Free Website Audit for a Limited Time
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Get in touch with me for auditing your website. For a limited time,
+      Website audit is done for free of cost!
     actions:
       - label: Learn More
         url: /features
