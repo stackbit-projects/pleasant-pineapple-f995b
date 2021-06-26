@@ -10,9 +10,9 @@ tags:
 image: images/3.png
 image_alt: Post 3 placeholder image
 excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+  Link building is a well-known process to increase your website ranking and
+  search engine results. Search engine optimization or SEO involves optimizing
+  your site by using different techniques, including link building.
 seo:
   title: Cur Ipse Pythagoras Et Aegyptum Lustravit
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
