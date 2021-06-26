@@ -14,7 +14,7 @@ excerpt: >-
   search engine results. Search engine optimization or SEO involves optimizing
   your site by using different techniques, including link building.
 seo:
-  title: Best Link Building Tips to Boost Your Ranking
+  title: Best Link Building Tips to Boost Your Website Ranking
   description: 'Understand the best link building tips to boost your website ranking'
   extra:
     - name: 'og:type'
