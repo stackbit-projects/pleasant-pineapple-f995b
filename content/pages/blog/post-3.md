@@ -15,7 +15,7 @@ excerpt: >-
   your site by using different techniques, including link building.
 seo:
   title: Best Link Building Tips to Boost Your Ranking
-  description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+  description: 'Best Link Building Tips to Boost Your Ranking'
   extra:
     - name: 'og:type'
       value: article
