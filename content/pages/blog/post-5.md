@@ -10,7 +10,7 @@ tags:
 image: images/5.png
 image_alt: Post 5 placeholder image
 excerpt: >-
-  iring an effective digital marketing expert can take a company by storm.
+  Hiring an effective digital marketing expert can take a company by storm.
   Bringing in somebody new to your digital marketing team structure can
   sometimes result in a new and fresh perspective.
 seo:
