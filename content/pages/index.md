@@ -100,8 +100,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
-    type: contact_section
 seo:
   title: Digital Marketing Expert in Bangalore
   description: >-
