@@ -7,7 +7,6 @@ categories:
 tags:
   - Stackbit
   - JAMstack
-image: /images/1.png
 image_alt: Post 3 placeholder image
 excerpt: >-
   Link building is a well-known process to increase your website ranking and
@@ -15,7 +14,7 @@ excerpt: >-
   your site by using different techniques, including link building.
 seo:
   title: Best Link Building Tips to Boost Your Website Ranking
-  description: 'Understand the best link building tips to boost your website ranking'
+  description: Understand the best link building tips to boost your website ranking
   extra:
     - name: 'og:type'
       value: article
@@ -24,7 +23,7 @@ seo:
       value: Best Link Building Tips to Boost Your Website Ranking
       keyName: property
     - name: 'og:description'
-      value: 'Understand the best link building tips to boost your website ranking'
+      value: Understand the best link building tips to boost your website ranking
       keyName: property
     - name: 'og:image'
       value: images/3.png
@@ -35,7 +34,7 @@ seo:
     - name: 'twitter:title'
       value: Best Link Building Tips to Boost Your Website Ranking
     - name: 'twitter:description'
-      value: 'Understand the best link building tips to boost your website ranking'
+      value: Understand the best link building tips to boost your website ranking
     - name: 'twitter:image'
       value: images/3.png
       relativeUrl: true
