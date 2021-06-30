@@ -6,7 +6,6 @@ categories:
   - content/data/categories/tutorials.yaml
 tags:
   - digital marketing
-image: /images/1.png
 image_alt: Post 5 placeholder image
 excerpt: >-
   Hiring an effective digital marketing expert can take a company by storm.
