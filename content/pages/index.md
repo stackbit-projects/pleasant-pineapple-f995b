@@ -12,7 +12,6 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: /images/my logo.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
@@ -103,7 +102,9 @@ sections:
     background_color: gray
 seo:
   title: Digital Marketing Expert in Bangalore
-  description: Digital marketing expert for all your website services. Get a free website audit today.
+  description: >-
+    Digital marketing expert for all your website services. Get a free website
+    audit today.
   extra:
     - name: 'og:type'
       value: website
@@ -112,7 +113,9 @@ seo:
       value: Digital Marketing Expert in Bangalore
       keyName: property
     - name: 'og:description'
-      value: Digital marketing expert for all your website services. Get a free website audit today.
+      value: >-
+        Digital marketing expert for all your website services. Get a free
+        website audit today.
       keyName: property
     - name: 'og:image'
       value: images/starter-preview.png
@@ -123,7 +126,9 @@ seo:
     - name: 'twitter:title'
       value: Digital Marketing Expert in Bangalore
     - name: 'twitter:description'
-      value: Digital marketing expert for all your website services. Get a free website audit today.
+      value: >-
+        Digital marketing expert for all your website services. Get a free
+        website audit today.
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
