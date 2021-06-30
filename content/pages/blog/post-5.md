@@ -38,7 +38,6 @@ seo:
       value: images/5.png
       relativeUrl: true
 layout: post
-image: /images/1.png
 ---
 Hiring an effective digital marketing expert can take a company by storm. Bringing in somebody new to your digital marketing team structure can sometimes result in a new and fresh perspective. It's easy to get wrapped up in the daily work load, and overlook what's really important. A digital marketing consultant has the ability to bring in new ideas, as well as a fresh perspective with the ability to spot areas for improvement in your digital marketing strategy.
 
