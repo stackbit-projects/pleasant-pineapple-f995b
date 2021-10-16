@@ -65,10 +65,7 @@ sections:
         align: left
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Paid Campaigns
         content: >
           Google's decision to offer AdWords, which is designed for businesses
