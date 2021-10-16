@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: SEO Expert in Bangalore
+    title: Best SEO Freelancer in Bangalore
     subtitle: Get a Free Website Audit Today!
     actions:
       - label: Learn More
