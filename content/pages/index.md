@@ -21,7 +21,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-  - title: How to Choose Freelance SEO
+  - title: 'Why '
     content: >-
       ## Lorem ipsum
 
