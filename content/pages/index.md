@@ -21,17 +21,6 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-  - type: cta_section
-    title: Free Website Audit for a Limited Time
-    subtitle: >-
-      Get in touch with me for auditing your website. For a limited time,
-      Website audit is done for free of cost!
-    actions:
-      - label: Get Your Free Website Audit
-        url: /features
-        style: primary
-    has_background: true
-    background_color: gray
 seo:
   title: Digital Marketing Expert in Bangalore
   description: >-
