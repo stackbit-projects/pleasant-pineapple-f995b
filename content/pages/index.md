@@ -36,7 +36,6 @@ sections:
           pages. SEO deals with the techniques of increasing the volume and
           quality of site traffic from these engines by optimizing the web page.
         align: left
-        image: images/feature.svg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
