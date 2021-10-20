@@ -57,7 +57,7 @@ sections:
           - label: Learn More
             url: /blog
             style: primary
-      - title: lorem-ipsum
+      - title: Google AdWords
         content: >-
           ## Lorem ipsum
 
