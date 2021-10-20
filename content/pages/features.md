@@ -19,10 +19,10 @@ sections:
   - type: features_section
     features:
       - title: Keyword Research
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          I use various research tools to analyse your business needs and find
+          and suggest relevant keywords to improve your website’s visibility
+          online.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
