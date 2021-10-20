@@ -87,17 +87,9 @@ sections:
             no_follow: false
         image: /images/feature.svg
       - title: Content Writing  and Web Design
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          If your website badly needs a makeover, then I will provide top-class
+          website designs that are SEO-friendly, attractive, and unique.
         align: left
         image_alt: lorem-ipsum
         image_position: left
