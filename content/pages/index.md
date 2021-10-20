@@ -118,24 +118,6 @@ sections:
       3.  Examine 200+ factors related to on-site SEO
     type: content_section
   - type: content_section
-  - title: Digital Marketing Services at Affordable Prices
-    content: >
-      1.  If you are one of these businesses that do not have a strong online
-      presence and have absolutely no idea how to expand your digital
-      footprint,you need the services of an SEO expert.
-
-
-      2.  I use advanced methods to assess your target audience and bring them
-      to you. My strategies are tailored to your needs, goals, resources, and
-      budget to get the most profit out of your services.
-
-
-      3.  There aren’t many agencies who will offer freelance digital marketing
-      in Bangalore. Most of them provide “packages” with services that you may
-      or may not need. Later, you end up paying more for solutions that you
-      could have used for a fraction of the price. That’s why I do a complete
-      analysis of your website and business before suggesting any service.
-    type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
   description: >-
