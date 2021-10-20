@@ -73,6 +73,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions: []
+        image: /images/feature.svg
 seo:
   title: Features
   description: This is the features page
