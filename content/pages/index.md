@@ -35,6 +35,19 @@ sections:
       thousand visitors to your website every month, and many of them can easily
       become paying customers.
     type: content_section
+  - title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
   description: >-
