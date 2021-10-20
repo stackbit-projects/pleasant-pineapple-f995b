@@ -16,19 +16,6 @@ sections:
       why I do a complete analysis of your website and business before
       suggesting any service.
     align: center
-  - content: >+
-      I use advanced methods to assess your target audience and bring them to
-      you. My strategies are tailored to your needs, goals, resources, and
-      budget to get the most profit out of your services.
-
-
-      There aren’t many agencies who will offer freelance digital marketing in
-      Bangalore. Most of them provide “packages” with services that you may or
-      may not need. Later, you end up paying more for solutions that you could
-      have used for a fraction of the price. That’s why I do a complete analysis
-      of your website and business before suggesting any service.
-
-    type: content_section
   - type: features_section
     features:
       - title: Feature 1
