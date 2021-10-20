@@ -8,7 +8,7 @@ sections:
       presence and have absolutely no idea how to expand your digital
       footprint,you need the services of an SEO expert.
     align: center
-  - title: lorem-ipsum
+  - title: Try my quick SEO services at affordable prices today.
     content: >+
       I use advanced methods to assess your target audience and bring them to
       you. My strategies are tailored to your needs, goals, resources, and
