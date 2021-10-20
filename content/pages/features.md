@@ -86,7 +86,7 @@ sections:
             new_window: false
             no_follow: false
         image: /images/feature.svg
-      - title: lorem-ipsum
+      - title: Content Writing & Web Design
         content: >-
           ## Lorem ipsum
 
