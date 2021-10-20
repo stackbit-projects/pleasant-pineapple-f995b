@@ -21,7 +21,9 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-  - title: How to Choose Your Freelance SEO Expert
+  - title: >-
+      I bring my creative and strategic experience together to offer the best
+      SEO services for your business.
     content: >
       Would you like to increase your website traffic, sales 10x? Contact Vijay
       Kumar, The Best SEO Expert in Bangalore. Besides Karnataka and Bangalore,
