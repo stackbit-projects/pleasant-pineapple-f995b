@@ -31,7 +31,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "/images/thumbnail.png"
+        "logo": "/images/thumbnail.png",
+        "logo_alt": "SEO Expert in Bangalore"
     },
     "footer": {
         "has_nav": true,
