@@ -70,7 +70,7 @@ sections:
             style: primary
             new_window: false
             no_follow: false
-        image: /images/feature.svg
+        image: /images/ppc.jpg
       - title: Social Media Marketing
         content: >
           I will help your business set up a strong social media presence
