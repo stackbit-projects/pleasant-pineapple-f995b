@@ -93,7 +93,12 @@ sections:
         align: left
         image_alt: lorem-ipsum
         image_position: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
         image: /images/feature.svg
 seo:
   title: Features
