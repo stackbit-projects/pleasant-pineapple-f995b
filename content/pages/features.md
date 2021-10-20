@@ -58,17 +58,9 @@ sections:
             url: /blog
             style: primary
       - title: Google AdWords
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          My knowledge of Google Ads and SEO will push your website to the top
+          of Google’s searches and make you a more visible brand.
         align: left
         image_alt: lorem-ipsum
         image_position: left
