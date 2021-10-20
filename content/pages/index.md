@@ -117,7 +117,7 @@ sections:
 
       3.  Examine 200+ factors related to on-site SEO
     type: content_section
-  - title: lorem-ipsum
+  - title: I Help Companies Grow
     content: >-
       ## Lorem ipsum
 
