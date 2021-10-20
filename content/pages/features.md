@@ -3,7 +3,10 @@ title: Features
 sections:
   - type: hero_section
     title: Digital Marketing Services at Affordable Prices
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: >-
+      If you are one of these businesses that do not have a strong online
+      presence and have absolutely no idea how to expand your digital
+      footprint,you need the services of an SEO expert.
     align: center
   - type: features_section
     features:
