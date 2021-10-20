@@ -31,22 +31,6 @@ sections:
           - label: Learn More
             url: /about
             style: primary
-      - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        align: left
-        image_alt: lorem-ipsum
-        image_position: left
-        actions: []
       - title: Link Building
         content: >
           My expertise in SEO link building will make sure that credible and
