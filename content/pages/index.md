@@ -117,7 +117,6 @@ sections:
 
       3.  Examine 200+ factors related to on-site SEO
     type: content_section
-  - type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
   description: >-
