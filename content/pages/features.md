@@ -85,6 +85,11 @@ sections:
             style: link
             new_window: false
             no_follow: false
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
         image: /images/feature.svg
       - title: lorem-ipsum
         content: >-
