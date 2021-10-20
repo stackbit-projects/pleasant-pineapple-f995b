@@ -72,17 +72,10 @@ sections:
             no_follow: false
         image: /images/feature.svg
       - title: Social Media Marketing
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          I will help your business set up a strong social media presence
+          including on websites such as Facebook, Twitter, Instagram, and
+          LinkedIn.
         align: left
         image_alt: lorem-ipsum
         image_position: left
