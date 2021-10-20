@@ -32,10 +32,10 @@ sections:
             url: /about
             style: primary
       - title: Link Building
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          My expertise in SEO link building will make sure that credible and
+          authoritative websites are pointing to your website, which will boost
+          your rankings on the search engine results page.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
