@@ -71,7 +71,7 @@ sections:
             new_window: false
             no_follow: false
         image: /images/feature.svg
-      - title: lorem-ipsum
+      - title: Social Media Marketing
         content: >-
           ## Lorem ipsum
 
