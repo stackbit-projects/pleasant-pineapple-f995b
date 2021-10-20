@@ -25,6 +25,9 @@ sections:
       I bring my creative and strategic experience together to offer the best
       SEO services for your business.
     content: >
+      ![](/images/Heading.jpg)
+
+
       Would you like to increase your website traffic, sales 10x? Contact Vijay
       Kumar, The Best SEO Expert in Bangalore. Besides Karnataka and Bangalore,
       he provides SEO and digital marketing services India wide. The fact that
