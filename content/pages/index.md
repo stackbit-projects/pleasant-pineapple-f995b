@@ -138,7 +138,7 @@ sections:
       could have used for a fraction of the price. That’s why I do a complete
       analysis of your website and business before suggesting any service.
     type: content_section
-  - title: lorem-ipsum
+  - title: Try my quick SEO services at affordable prices today.
     content: >-
       ## Lorem ipsum
 
