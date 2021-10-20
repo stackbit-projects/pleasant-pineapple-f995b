@@ -139,17 +139,6 @@ sections:
       analysis of your website and business before suggesting any service.
     type: content_section
   - title: Try my quick SEO services at affordable prices today.
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
