@@ -136,8 +136,6 @@ sections:
       could have used for a fraction of the price. That’s why I do a complete
       analysis of your website and business before suggesting any service.
     type: content_section
-  - title: Try my quick SEO services at affordable prices today.
-    type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
   description: >-
