@@ -34,9 +34,6 @@ sections:
       Google does over 3.5 billion searches per day can result in several
       thousand visitors to your website every month, and many of them can easily
       become paying customers.
-
-
-      ## Why My SEO Services?
     type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
