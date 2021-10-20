@@ -50,7 +50,7 @@ sections:
           content and niche. If you don’t want any “high-end” services, I can be
           a freelance SEO consultant for your business.
         align: left
-        image: images/feature.svg
+        image: /images/Technical Audit.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
