@@ -85,7 +85,7 @@ sections:
             style: primary
             new_window: false
             no_follow: false
-        image: /images/feature.svg
+        image: /images/social media.jpg
       - title: Content Writing  and Web Design
         content: >
           If your website badly needs a makeover, then I will provide top-class
