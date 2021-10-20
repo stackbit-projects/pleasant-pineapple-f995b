@@ -118,17 +118,7 @@ sections:
       3.  Examine 200+ factors related to on-site SEO
     type: content_section
   - title: I Help Companies Grow
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "If you are one of these businesses that do not have a strong online presence and have absolutely no idea how to expand your digital footprint, you need the services of an SEO expert. I use advanced methods to assess your target audience and bring them to you. My strategies are tailored to your needs, goals, resources, and budget to get the most profit out of your services.\r\n\nBusinesses that need a digital marketing strategy to start expanding and grow can utilize my full- range of SEO services. I will provide end-to-end expert SEO solutions that include website creation, content writing, competitor website analysis up to analytics and reporting.\n\n\n\n"
     type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
