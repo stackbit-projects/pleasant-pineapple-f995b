@@ -23,40 +23,12 @@ sections:
       background_image_repeat: repeat
   - title: How to Choose Your Freelance SEO Expert
     content: >
-      The hiring of freelancing SEOs or even SEOs in general is not easy. An SEO
-      that is performed correctly requires an incredible amount of experience
-      and training. You will find that most people come to you thinking they
-      know everything there is to know about SEO, but most of the time, they're
-      not knowledgeable enough.
-
-
-      The SEO freelancers need to stay current on search engine algorithms, as
-      well as on programs and technical aspects of the industry. Great freelance
-      SEO companies have a lot of websites they are currently working on, so if
-      you ask them for examples of their work, they will usually be able to
-      provide you with examples.
-
-
-      From keyword research and link building to article marketing, SEO (search
-      engine optimization) is a complex approach. You may need to hire several
-      people who have experience in one area of SEO rather than trying to find
-      just one person with all the skills you require for your website.
-
-
-      Regardless of what you decide to do, check out examples of SEO work done
-      by freelancers. Take a look at their page rank and search engine results
-      for specific keywords on some websites they have worked on. Consult the
-      website's webmaster to ensure the freelancer did indeed do the work they
-      promised. Ensure that your style matches theirs.
-
-
-      Look at the feedback of the person if you post a project on a freelance
-      website. Several positive reviews will prove their experience as a
-      freelance SEO company. Nevertheless, if someone can provide verifiable
-      samples or references, you may consider them even if they have no
-      feedback. In some cases, people with no feedback may be relatively new to
-      the site or even to the freelance world, but they have the experience
-      necessary to provide you with search engine optimization services.
+      Would you like to increase your website traffic, sales 10x? Contact Vijay
+      Kumar, The Best SEO Expert in Bangalore. Besides Karnataka and Bangalore,
+      he provides SEO and digital marketing services India wide. The fact that
+      Google does over 3.5 billion searches per day can result in several
+      thousand visitors to your website every month, and many of them can easily
+      become paying customers.
     type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
