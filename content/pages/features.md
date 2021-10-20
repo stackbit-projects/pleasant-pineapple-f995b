@@ -78,7 +78,7 @@ sections:
           LinkedIn.
         align: left
         image_alt: lorem-ipsum
-        image_position: left
+        image_position: right
         actions:
           - label: Learn More
             url: '#'
