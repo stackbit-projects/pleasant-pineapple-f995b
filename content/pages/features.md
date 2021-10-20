@@ -99,7 +99,7 @@ sections:
             style: primary
             new_window: false
             no_follow: false
-        image: /images/feature.svg
+        image: /images/content.jpg
 seo:
   title: Features
   description: This is the features page
