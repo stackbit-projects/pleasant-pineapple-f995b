@@ -45,10 +45,6 @@ sections:
       become paying customers.
 
 
-      ![](/images/Heading%20\(1\).jpg)
-
-
-
       According to Borrell Associates, a market research firm, the search engine
       optimization (SEO) industry is worth more than $65 billion. In addition to
       being a leading SEO consultant, Vijay Kumar has an extensive background in
