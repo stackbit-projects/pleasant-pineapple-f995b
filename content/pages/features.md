@@ -37,7 +37,7 @@ sections:
           authoritative websites are pointing to your website, which will boost
           your rankings on the search engine results page.
         align: left
-        image: images/feature.svg
+        image: /images/link building.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
