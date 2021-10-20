@@ -76,7 +76,7 @@ sections:
           I will help your business set up a strong social media presence
           including on websites such as Facebook, Twitter, Instagram, and
           LinkedIn.
-        align: left
+        align: right
         image_alt: lorem-ipsum
         image_position: left
         actions:
