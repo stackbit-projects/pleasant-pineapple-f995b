@@ -25,12 +25,12 @@ sections:
       I bring my creative and strategic experience together to offer the best
       SEO services for your business.
     content: >
-      ![](/images/Untitled%20design.jpg)Would you like to increase your website
-      traffic, sales 10x? Contact Vijay Kumar, The Best SEO Expert in Bangalore.
-      Besides Karnataka and Bangalore, he provides SEO and digital marketing
-      services India wide. The fact that Google does over 3.5 billion searches
-      per day can result in several thousand visitors to your website every
-      month, and many of them can easily become paying customers.
+      Would you like to increase your website traffic, sales 10x? Contact Vijay
+      Kumar, The Best SEO Expert in Bangalore. Besides Karnataka and Bangalore,
+      he provides SEO and digital marketing services India wide. The fact that
+      Google does over 3.5 billion searches per day can result in several
+      thousand visitors to your website every month, and many of them can easily
+      become paying customers.
     type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
