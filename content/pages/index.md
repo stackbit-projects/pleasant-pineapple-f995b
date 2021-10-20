@@ -138,6 +138,19 @@ sections:
       could have used for a fraction of the price. That’s why I do a complete
       analysis of your website and business before suggesting any service.
     type: content_section
+  - title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
   description: >-
