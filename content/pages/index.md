@@ -89,7 +89,7 @@ sections:
       with SEO management services that will maximize your return on investment.
 
 
-      SEO expert in Bangalore, Karnataka and India
+      > **SEO expert in Bangalore, Karnataka and India**
 
 
       A combination of flawless deliverables and transparency has been developed
