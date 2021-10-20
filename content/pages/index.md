@@ -35,7 +35,7 @@ sections:
       thousand visitors to your website every month, and many of them can easily
       become paying customers.
     type: content_section
-  - title: lorem-ipsum
+  - title: Why My SEO Services?
     content: >-
       ## Lorem ipsum
 
