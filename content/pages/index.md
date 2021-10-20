@@ -25,7 +25,7 @@ sections:
       I bring my creative and strategic experience together to offer the best
       SEO services for your business.
     content: >
-      ![](/images/Heading.jpg)
+      ![](/images/SEO%20Expert%20Bangalore.jpg)
 
 
       Would you like to increase your website traffic, sales 10x? Contact Vijay
