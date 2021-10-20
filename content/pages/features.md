@@ -24,7 +24,7 @@ sections:
           and suggest relevant keywords to improve your website’s visibility
           online.
         align: left
-        image: images/feature.svg
+        image: /images/Keyword Research.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
