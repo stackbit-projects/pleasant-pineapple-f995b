@@ -23,7 +23,8 @@ sections:
       background_image_repeat: repeat
   - title: >-
       I bring my creative and strategic experience together to offer the best
-      SEO services for your business.
+      SEO services for your business. Boost your website's ranking in Google
+      with safe, ethical, and transparent SEO.
     content: >
       ![](/images/SEO%20Expert%20Bangalore.jpg)
 
