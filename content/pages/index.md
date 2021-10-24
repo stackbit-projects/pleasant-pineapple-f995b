@@ -40,7 +40,7 @@ sections:
 
     type: content_section
   - title: Why My SEO Services?
-    content: >+
+    content: >
       ## Vijay Kumar C – SEO Expert in Bangalore&#xA;&#xA;
 
 
@@ -51,12 +51,8 @@ sections:
       and traffic than any other marketing channel.
 
 
-
-
       > You need an SEO Expert to help you get more traffic from Google if you
       want to increase your business.
-
-
 
 
       Google is regarded as the most trustworthy search engine. You should
@@ -64,11 +60,9 @@ sections:
       the right side of Google's algorithm.
 
 
-
       Using data-driven and evidence-based techniques, my SEO method is a
       process that compounds over time. In order to formulate a road map for the
       SEO campaign, I reverse engineer the top ranking websites in your field.
-
 
 
       According to me, SEO shouldn't be done by a junior person. Every business
@@ -83,6 +77,8 @@ sections:
       experts in Bangalore. Vijay Kumar aims to improve your sales and web
       traffic 10 times.
 
+
+      ![](/images/Ready%20to%20outsmart%20your%20competition.jpg)
     type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
