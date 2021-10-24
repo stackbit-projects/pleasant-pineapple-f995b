@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Freelance SEO Expert for Your Business Needs
-    subtitle: Get a Free Website Audit Today!
+    subtitle: Is Your Website Ready for Page 1 of Google?
     actions:
       - label: Learn More
         url: /features
