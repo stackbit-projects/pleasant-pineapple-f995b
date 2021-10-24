@@ -40,7 +40,7 @@ sections:
 
     type: content_section
   - title: Why My SEO Services?
-    content: >+
+    content: >
       ## Vijay Kumar C – SEO Expert in Bangalore&#xA;&#xA;
 
 
@@ -52,7 +52,7 @@ sections:
 
 
       > You need an SEO Expert to help you get more traffic from Google if you
-      want to increase your business.Google is regarded as the most trustworthy
+      want to increase your business. Google is regarded as the most trustworthy
       search engine. You should consider getting an SEO expert to help you with
       your website so you are on the right side of Google's algorithm.
 
@@ -73,7 +73,6 @@ sections:
       You can either call them SEO specialists, SEO heroes, SEO gurus, or SEO
       experts in Bangalore. Vijay Kumar aims to improve your sales and web
       traffic 10 times.
-
     type: content_section
   - title: Why should you work with me?
     content: >
