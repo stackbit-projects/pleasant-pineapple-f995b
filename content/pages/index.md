@@ -40,7 +40,7 @@ sections:
 
     type: content_section
   - title: Why My SEO Services?
-    content: >
+    content: >+
       ## Vijay Kumar C – SEO Expert in Bangalore&#xA;&#xA;
 
 
@@ -75,7 +75,8 @@ sections:
       traffic 10 times.
 
 
-      ![](/images/Ready%20to%20outsmart%20your%20competition.svg)
+      ![](/images/Ready%20to%20outsmart%20your%20competition%20\(1\).jpg)
+
     type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
