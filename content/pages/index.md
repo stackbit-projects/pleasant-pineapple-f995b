@@ -52,12 +52,9 @@ sections:
 
 
       > You need an SEO Expert to help you get more traffic from Google if you
-      want to increase your business.
-
-
-      Google is regarded as the most trustworthy search engine. You should
-      consider getting an SEO expert to help you with your website so you are on
-      the right side of Google's algorithm.
+      want to increase your business.Google is regarded as the most trustworthy
+      search engine. You should consider getting an SEO expert to help you with
+      your website so you are on the right side of Google's algorithm.
 
 
       Using data-driven and evidence-based techniques, my SEO method is a
