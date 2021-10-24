@@ -79,11 +79,8 @@ sections:
 
     type: content_section
   - title: Why should you work with me?
-    content: >+
-
-
+    content: >
       > I specialize in search engine optimization.
-
 
 
       There are so many changes in SEO that you cannot stay on top of it without
@@ -94,7 +91,6 @@ sections:
 
 
       > I have ranked websites in several industries.
-
 
 
       I have worked with a variety of businesses in multiple industries,
@@ -108,14 +104,11 @@ sections:
       > I provide monthly SEO reports that are easy to understand.
 
 
-
       Get monthly search ranking reports and access to your own live ranking
       dashboard for your business.
 
 
-
       > Contact me at any time.
-
 
 
       If you have questions or concerns about your website or SEO services, you
@@ -124,7 +117,6 @@ sections:
       Because I'm an SEO consultant, I don't charge big SEO agency prices
       because I don't have a big team or office. I am a freelance seo expert
       which means I can pass the savings onto you.
-
     type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
