@@ -119,17 +119,53 @@ sections:
       which means I can pass the savings onto you.
     type: content_section
   - title: What to Expect For Your Business
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      For search engine success, I incorporate five key areas into my process.
+      In general, an SEO campaign will have these 5 important elements, although
+      the amount of each part will differ based on your current situation and
+      industry.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      **SEO Competitor Analysis and Keyword Research**
 
 
-      - Lorem ipsum
+      The keyword research I conduct for your industry is in-depth and I take
+      into account the keywords your competitors are using and what keywords you
+      should target. Based on this information, I have a solid plan for the rest
+      of the campaign.
 
-      - dolor sit amet
+
+      **Technical (On Page) Search Engine **Optimization
+
+
+      My technical audits of your site are conducted using industry leading
+      tools. Throughout the site, I will fix all errors and optimize every page
+      to make sure that the correct keywords are being targeted. On page SEO is
+      key to any campaign's success.
+
+
+      **Google Local Search **Optimization** – SEO Bangalore**
+
+
+      In the case of a specific geographical region, I will ensure your site
+      targets this valuable traffic source. By auditing your site's local
+      signals, I can ensure it ranks better on Google Maps for localized terms.
+
+
+      **Link Building (Off Page SEO)**
+
+
+      SEO is still largely driven by quality backlinks. The right links are
+      built by analyzing which backlinks your high ranking competitors have.
+      Rankings will be boosted by these links.
+
+
+      **Content Creation & **Optimization** Work**
+
+
+      As your content expert, I will guide your strategy, curate and improve
+      existing content, as well as recommend formats.
+
     type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
