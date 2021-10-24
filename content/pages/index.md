@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Freelance SEO Expert for Your Business Needs
+    title: Is Your Website Ready for Page 1 of Google?
     subtitle: Boost your online business with science-based SEO strategies.
     actions:
       - label: Learn More
