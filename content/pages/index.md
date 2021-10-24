@@ -118,7 +118,7 @@ sections:
       because I don't have a big team or office. I am a freelance seo expert
       which means I can pass the savings onto you.
     type: content_section
-  - title: lorem-ipsum
+  - title: What to Expect For Your Business
     content: >-
       ## Lorem ipsum
 
