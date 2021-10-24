@@ -118,6 +118,19 @@ sections:
       because I don't have a big team or office. I am a freelance seo expert
       which means I can pass the savings onto you.
     type: content_section
+  - title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
   description: >-
