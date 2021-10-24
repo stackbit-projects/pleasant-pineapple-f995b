@@ -74,9 +74,6 @@ sections:
       experts in Bangalore. Vijay Kumar aims to improve your sales and web
       traffic 10 times.
 
-
-      ![](/images/Ready%20to%20outsmart%20your%20competition%20\(1\).jpg)
-
     type: content_section
   - title: Why should you work with me?
     content: >
