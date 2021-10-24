@@ -135,7 +135,7 @@ sections:
       of the campaign.
 
 
-      **\*\*Technical (On Page) Search Engine \*\*Optimization**
+      **Technical (On Page) Search Engine Optimization**
 
 
       My technical audits of your site are conducted using industry leading
