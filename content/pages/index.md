@@ -78,7 +78,7 @@ sections:
       traffic 10 times.
 
 
-      ![](/images/Ready%20to%20outsmart%20your%20competition.jpg)
+      ![](/images/Ready%20to%20outsmart%20your%20competition.svg)
     type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
