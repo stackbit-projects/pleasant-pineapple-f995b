@@ -84,7 +84,9 @@ sections:
       traffic 10 times.
 
     type: content_section
-  - title: lorem-ipsum
+  - title: >-
+      Ready to outsmart your competition? GET YOUR SEO HEALTH CHECK & STRATEGY
+      AUDIT
     content: >-
       ## Lorem ipsum
 
