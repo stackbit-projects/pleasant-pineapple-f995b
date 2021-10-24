@@ -78,7 +78,7 @@ sections:
       ![](/images/Ready%20to%20outsmart%20your%20competition%20\(1\).jpg)
 
     type: content_section
-  - title: lorem-ipsum
+  - title: Why should you work with me?
     content: >-
       ## Lorem ipsum
 
