@@ -5,7 +5,7 @@ sections:
     title: Is Your Website Ready for Page 1 of Google?
     subtitle: Boost your online business with science-based SEO strategies.
     actions:
-      - label: Learn More
+      - label: CALL
         url: /features
         style: primary
       - label: Contact Us
