@@ -119,7 +119,7 @@ sections:
       which means I can pass the savings onto you.
     type: content_section
   - title: What to Expect For Your Business
-    content: >+
+    content: >
       For search engine success, I incorporate five key areas into my process.
       In general, an SEO campaign will have these 5 important elements, although
       the amount of each part will differ based on your current situation and
@@ -135,7 +135,7 @@ sections:
       of the campaign.
 
 
-      **Technical (On Page) Search Engine **Optimization
+      **\*\*Technical (On Page) Search Engine \*\*Optimization**
 
 
       My technical audits of your site are conducted using industry leading
@@ -144,7 +144,7 @@ sections:
       key to any campaign's success.
 
 
-      **Google Local Search **Optimization** – SEO Bangalore**
+      **Google Local Search Optimization – SEO Bangalore**
 
 
       In the case of a specific geographical region, I will ensure your site
@@ -160,12 +160,11 @@ sections:
       Rankings will be boosted by these links.
 
 
-      **Content Creation & **Optimization** Work**
+      **Content Creation & Optimization Work**
 
 
       As your content expert, I will guide your strategy, curate and improve
       existing content, as well as recommend formats.
-
     type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
