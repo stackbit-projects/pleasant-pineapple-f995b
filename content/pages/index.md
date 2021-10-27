@@ -162,17 +162,6 @@ sections:
       As your content expert, I will guide your strategy, curate and improve
       existing content, as well as recommend formats.
     type: content_section
-  - title: How does it work
-    subtitle: Submit the contact form.
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        new_window: false
-        no_follow: false
-    has_background: false
-    background_color: white
-    type: cta_section
 seo:
   title: Digital Marketing Expert in Bangalore
   description: >-
