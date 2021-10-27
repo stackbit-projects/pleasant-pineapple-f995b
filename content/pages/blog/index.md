@@ -19,9 +19,7 @@ seo:
       value: What Role Does Content Length Play in Google Rankings?
       keyName: property
     - name: 'og:description'
-      value: >-
-        Are higher search rankings on Google more likely to be achieved with a
-        larger word count? Read on to find out.
+      value: Blog - SEO Expert in Bangalore
       keyName: property
     - name: 'og:image'
       value: Blog - SEO Expert in Bangalore
