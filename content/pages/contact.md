@@ -26,5 +26,9 @@ seo:
       value: Contact
     - name: 'twitter:description'
       value: This is the contact page
+    - name: 'og:image'
+      value: /images/my logo.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
