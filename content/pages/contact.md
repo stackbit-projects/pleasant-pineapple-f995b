@@ -8,7 +8,7 @@ sections:
     has_background: false
   - type: contact_section
 seo:
-  title: Contact
+  title: 'Contact: SEO Expert in Bangalore'
   description: This is the contact page
   extra:
     - name: 'og:type'
