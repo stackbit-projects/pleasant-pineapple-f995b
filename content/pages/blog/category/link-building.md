@@ -8,7 +8,7 @@ sections:
     show_recent: false
     category: content/data/categories/link-buiilding.yaml
 seo:
-  title: Posts in Social Media
+  title: Posts in Link Building
   description: This is the category archive page
   extra:
     - name: 'og:type'
