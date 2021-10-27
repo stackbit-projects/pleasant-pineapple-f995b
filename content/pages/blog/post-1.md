@@ -34,7 +34,9 @@ seo:
     - name: 'twitter:title'
       value: What Role Does Content Length Play in Google Rankings?
     - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: >-
+        Are higher search rankings on Google more likely to be achieved with a
+        larger word count? Read on to find out.
     - name: 'twitter:image'
       value: /images/What Role Does Content Length Play in Google Rankings (1).jpg
       relativeUrl: true
