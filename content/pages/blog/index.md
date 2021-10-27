@@ -22,7 +22,7 @@ seo:
       value: Blog - SEO Expert in Bangalore
       keyName: property
     - name: 'og:image'
-      value: Blog - SEO Expert in Bangalore
+      value: /images/What Role Does Content Length Play in Google Rankings (1).jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
