@@ -18,7 +18,7 @@ seo:
       value: Contact
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: 'Contact: SEO Expert in Bangalore'
       keyName: property
     - name: 'twitter:card'
       value: summary
