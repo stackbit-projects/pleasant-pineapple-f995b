@@ -108,7 +108,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Features
+      value: My SEO Services
       keyName: property
     - name: 'og:description'
       value: This is the features page
