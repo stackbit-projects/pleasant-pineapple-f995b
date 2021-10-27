@@ -1,6 +1,6 @@
 ---
 title: What Role Does Content Length Play in Google Rankings?
-date: '2020-04-16'
+date: '2021-04-16'
 author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tutorials.yaml
