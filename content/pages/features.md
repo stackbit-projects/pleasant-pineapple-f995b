@@ -111,7 +111,7 @@ seo:
       value: My SEO Services
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: SEO services at affordable prices in Bangalore
       keyName: property
     - name: 'og:image'
       value: /images/social media.jpg
