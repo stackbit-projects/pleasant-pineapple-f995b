@@ -7,8 +7,8 @@ categories:
 image: images/1.png
 image_alt: Post 1 placeholder image
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
+  Are higher search rankings on Google more likely to be achieved with a larger
+  word count? Read on to find out.
 seo:
   title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
