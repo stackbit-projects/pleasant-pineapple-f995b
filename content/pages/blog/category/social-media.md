@@ -8,7 +8,7 @@ sections:
     show_recent: false
     category: content/data/categories/social-media.yaml
 seo:
-  title: Posts in News
+  title: Posts in Social Media
   description: This is the category archive page
   extra:
     - name: 'og:type'
