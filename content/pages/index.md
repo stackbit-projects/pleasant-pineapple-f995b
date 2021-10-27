@@ -6,7 +6,7 @@ sections:
     subtitle: "Boost your online business with science-based SEO strategies.\_Let’s start a conversation"
     actions:
       - label: CALL
-        url: /features
+        url: /contact
         style: primary
       - label: EMAIL
         url: /contact
