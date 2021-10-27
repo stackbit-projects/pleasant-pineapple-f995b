@@ -248,7 +248,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Digital Marketing Expert in Bangalore
+      value: 'SEO Expert in Bangalore | Freelance SEO Expert: Vijay Kumar C'
       keyName: property
     - name: 'og:description'
       value: >-
