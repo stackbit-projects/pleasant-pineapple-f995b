@@ -262,7 +262,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Digital Marketing Expert in Bangalore
+      value: 'SEO Expert in Bangalore | Freelance SEO Expert: Vijay Kumar C'
     - name: 'twitter:description'
       value: >-
         Digital marketing expert for all your website services. Get a free
