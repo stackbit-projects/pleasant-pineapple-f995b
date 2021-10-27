@@ -191,6 +191,19 @@ sections:
       If required, I will provide continuous support and help keep your digital
       visibility afloat with my on-going SEO services.
     type: content_section
+  - title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
   description: >-
