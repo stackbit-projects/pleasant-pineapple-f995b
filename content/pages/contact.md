@@ -21,7 +21,7 @@ seo:
       value: 'Contact: SEO Expert in Bangalore'
       keyName: property
     - name: 'twitter:card'
-      value: summary
+      value: 'Contact: SEO Expert in Bangalore'
     - name: 'twitter:title'
       value: 'Contact: SEO Expert in Bangalore'
     - name: 'twitter:description'
