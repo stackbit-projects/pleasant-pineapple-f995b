@@ -7,7 +7,7 @@ sections:
   - type: blog_feed_section
     show_recent: false
 seo:
-  title: 'Blog: Latest SEO Resources'
+  title: 'Blog: Latest SEO Resources | SEO Expert in Bangalore'
   description: 'Blog: Latest SEO Resources'
   extra:
     - name: 'og:type'
