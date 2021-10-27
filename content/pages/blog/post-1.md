@@ -26,7 +26,7 @@ seo:
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
       keyName: property
     - name: 'og:image'
-      value: images/1.png
+      value: /images/What Role Does Content Length Play in Google Rankings (1).jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
