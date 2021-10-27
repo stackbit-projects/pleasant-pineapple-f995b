@@ -7,6 +7,7 @@ sections:
   - type: blog_feed_section
     show_recent: false
     category: content/data/categories/seo.yaml
+    title: what
 seo:
   title: Posts in SEO
   description: This is the category archive page
