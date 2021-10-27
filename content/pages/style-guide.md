@@ -2,7 +2,7 @@
 title: Projects & Case Studies
 seo:
   title: Projects and Case Studies
-  description: A reference for suggested typographic treatment and styles for your content
+  description: Projects and Case Studies
   extra:
     - name: 'og:type'
       value: website
