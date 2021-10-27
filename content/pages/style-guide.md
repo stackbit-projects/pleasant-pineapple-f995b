@@ -1,7 +1,7 @@
 ---
 title: Projects & Case Studies
 seo:
-  title: Theme Style Guide
+  title: Projects and Case Studies
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
