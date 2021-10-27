@@ -8,7 +8,7 @@ sections:
     show_recent: false
     category: content/data/categories/ppc.yaml
 seo:
-  title: Posts in Tutorials
+  title: Posts in PPC
   description: This is the category archive page
   extra:
     - name: 'og:type'
