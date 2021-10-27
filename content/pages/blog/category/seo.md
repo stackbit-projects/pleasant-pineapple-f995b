@@ -6,7 +6,7 @@ sections:
     align: center
   - type: blog_feed_section
     show_recent: false
-    category: content/data/categories/seo.yaml
+    category: content/data/categories/news.yaml
 seo:
   title: Posts in SEO
   description: This is the category archive page
