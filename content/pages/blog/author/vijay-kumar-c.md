@@ -15,7 +15,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts by DVijay Kumar C
+      value: Posts by Vijay Kumar C
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
