@@ -163,9 +163,7 @@ sections:
       existing content, as well as recommend formats.
     type: content_section
   - title: How does it work
-    subtitle: >-
-      Submit the contact formFill in your name, contact number, email ID,
-      company name, and company website. I’ll contact you within 24 hours.
+    subtitle: Submit the contact form.
     actions: []
     has_background: false
     background_color: white
