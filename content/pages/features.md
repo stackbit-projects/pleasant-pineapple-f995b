@@ -101,7 +101,7 @@ sections:
             no_follow: false
         image: /images/content.jpg
 seo:
-  title: Features
+  title: SEO Services
   description: This is the features page
   extra:
     - name: 'og:type'
