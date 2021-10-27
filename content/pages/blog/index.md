@@ -8,7 +8,7 @@ sections:
     show_recent: false
 seo:
   title: 'Blog: Latest SEO Resources'
-  description: This is the blog page
+  description: 'Blog: Latest SEO Resources'
   extra:
     - name: 'og:type'
       value: website
