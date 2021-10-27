@@ -9,7 +9,7 @@ sections:
   - type: contact_section
 seo:
   title: 'Contact: SEO Expert in Bangalore'
-  description: This is the contact page
+  description: 'Contact: SEO Expert in Bangalore'
   extra:
     - name: 'og:type'
       value: website
