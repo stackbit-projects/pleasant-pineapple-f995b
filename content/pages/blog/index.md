@@ -8,9 +8,7 @@ sections:
     show_recent: false
 seo:
   title: Blog - SEO Expert in Bangalore
-  description: >-
-    Are higher search rankings on Google more likely to be achieved with a
-    larger word count? Read on to find out.
+  description: Blog - SEO Expert in Bangalore
   extra:
     - name: 'og:type'
       value: website
