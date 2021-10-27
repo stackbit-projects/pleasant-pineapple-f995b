@@ -163,17 +163,33 @@ sections:
       existing content, as well as recommend formats.
     type: content_section
   - title: How does it work
-    content: >-
-      ## Lorem ipsum
+    content: >
+      > Submit the Contact Form
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Fill in your name, contact number, email ID, company name, and company
+      website. I’ll contact you within 24 hours.
 
 
-      - Lorem ipsum
+      > Telephonic Discussion
 
-      - dolor sit amet
+
+      I will have a one-on-one discussion with you about your company’s needs
+      and provide the best options to build a complete digital strategy.
+
+
+      > Completion & Delivery
+
+
+      Work commencement on your SEO requirements after agreement and delivery of
+      the same within the stipulated time.
+
+
+      > Support
+
+
+      If required, I will provide continuous support and help keep your digital
+      visibility afloat with my on-going SEO services.
     type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
