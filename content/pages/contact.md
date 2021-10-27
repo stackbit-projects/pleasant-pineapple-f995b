@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: 'Contact: SEO Expert in Bangalore'
     - name: 'twitter:description'
-      value: This is the contact page
+      value: 'Contact: SEO Expert in Bangalore'
     - name: 'og:image'
       value: /images/my logo.png
       keyName: property
