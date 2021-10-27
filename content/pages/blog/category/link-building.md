@@ -1,5 +1,5 @@
 ---
-title: Social Media
+title: Link Building
 sections:
   - type: hero_section
     title: All Posts In Social Media
