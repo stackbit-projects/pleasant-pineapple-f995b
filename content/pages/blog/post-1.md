@@ -11,7 +11,7 @@ excerpt: >-
   Are higher search rankings on Google more likely to be achieved with a larger
   word count? Read on to find out.
 seo:
-  title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+  title: What Role Does Content Length Play in Google Rankings?
   description: >-
     Are higher search rankings on Google more likely to be achieved with a
     larger word count? Read on to find out.
