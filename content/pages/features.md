@@ -124,7 +124,7 @@ seo:
     - name: 'twitter:description'
       value: This is the features page
     - name: 'twitter:image'
-      value: images/5.png
+      value: /images/social media.jpg
       relativeUrl: true
 layout: advanced
 ---
