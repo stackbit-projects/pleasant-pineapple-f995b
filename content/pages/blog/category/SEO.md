@@ -6,7 +6,7 @@ sections:
     align: center
   - type: blog_feed_section
     show_recent: false
-    category: content/data/categories/general.yaml
+    category: content/data/categories/seo.yaml
 seo:
   title: Posts in General
   description: This is the category archive page
