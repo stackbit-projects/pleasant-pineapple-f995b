@@ -7,7 +7,7 @@ sections:
   - type: blog_feed_section
     show_recent: false
 seo:
-  title: 'Blog: Latest SEO Resources | SEO Expert in Bangalore'
+  title: What Role Does Content Length Play in Google Rankings?
   description: 'Blog: Latest SEO Resources | SEO Expert in Bangalore'
   extra:
     - name: 'og:type'
