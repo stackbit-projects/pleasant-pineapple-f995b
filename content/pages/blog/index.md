@@ -7,7 +7,7 @@ sections:
   - type: blog_feed_section
     show_recent: false
 seo:
-  title: What Role Does Content Length Play in Google Rankings?
+  title: Blog - SEO Expert in Bangalore
   description: >-
     Are higher search rankings on Google more likely to be achieved with a
     larger word count? Read on to find out.
