@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: 'Contact: SEO Expert in Bangalore'
     - name: 'twitter:description'
       value: This is the contact page
     - name: 'og:image'
