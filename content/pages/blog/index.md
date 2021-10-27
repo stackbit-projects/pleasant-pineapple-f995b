@@ -17,7 +17,7 @@ seo:
       value: 'Blog: Latest SEO Resources | SEO Expert in Bangalore'
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: 'Blog: Latest SEO Resources | SEO Expert in Bangalore'
       keyName: property
     - name: 'og:image'
       value: /images/link building.jpg
