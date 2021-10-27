@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: What Role Does Content Length Play in Google Rankings?
       keyName: property
     - name: 'og:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
