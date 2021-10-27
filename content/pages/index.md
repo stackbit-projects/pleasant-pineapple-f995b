@@ -257,7 +257,7 @@ seo:
         Bangalore, he provides SEO and digital marketing services India wide.
       keyName: property
     - name: 'og:image'
-      value: images/starter-preview.png
+      value: /images/my logo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
