@@ -6,7 +6,7 @@ sections:
     align: center
   - type: blog_feed_section
     show_recent: false
-    author: content/data/team/vijay-kumar-c.yaml
+    author: content/data/team/vijay-kumar.yaml
 seo:
   title: Posts by Vijay Kumar C
   description: This is the author archive page
