@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
     - name: 'twitter:image'
-      value: images/1.png
+      value: /images/What Role Does Content Length Play in Google Rankings (1).jpg
       relativeUrl: true
 layout: post
 tags:
