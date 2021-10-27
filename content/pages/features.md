@@ -102,7 +102,7 @@ sections:
         image: /images/content.jpg
 seo:
   title: SEO Services
-  description: This is the features page
+  description: SEO services at affordable prices in Bangalore. contact me today.
   extra:
     - name: 'og:type'
       value: website
