@@ -192,17 +192,50 @@ sections:
       visibility afloat with my on-going SEO services.
     type: content_section
   - title: FAQ's
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      ### Why You Need an SEO Expert?
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      The SEO expert is the brain of your digital strategy. He/she will study
+      your business, your competitors, your needs, and provide direction to
+      develop and implement the strategy. Not only this, but the SEO expert will
+      also provide regular content analysis and website audit reports, keeping
+      your online presence alive and well. The SEO expert will be your eyes and
+      ears when it comes to market research. He/she is responsible for making
+      sure your business moves in the right direction, is targeting the right
+      customers, and is in the game for the long run.
 
 
-      - Lorem ipsum
+      ### &#xA;How to Choose an SEO Expert in Bangalore?
 
-      - dolor sit amet
+
+      Choosing an SEO expert in Bangalore should not be hard. An expert SEO
+      analyst will,
+
+
+
+      *   Have a comprehensive and impressive portfolio/resume
+
+
+      *   Have a varied and vast experience
+
+
+      *   Provide you reports of their past assignments
+
+
+      *   Give you an honest insight into your market and how they perceive SEO
+      strategies
+
+
+      *   Listen to your pain points and actually understand them
+
+
+      Once you choose the SEO expert, he/she will analyse your business,
+      customers, and competitors and give you an exact picture of what exactly
+      your business’ digital strategy is lacking and the ways you can improve
+      it. They will focus on your overall digital footprint, rather than stick
+      to a few basic tweaks that’ll wither in a few weeks.
+
     type: content_section
 seo:
   title: Digital Marketing Expert in Bangalore
