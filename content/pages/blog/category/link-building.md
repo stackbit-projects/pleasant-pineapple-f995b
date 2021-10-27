@@ -2,7 +2,7 @@
 title: Link Building
 sections:
   - type: hero_section
-    title: All Posts In Social Media
+    title: All Posts In Link Building
     align: center
   - type: blog_feed_section
     show_recent: false
