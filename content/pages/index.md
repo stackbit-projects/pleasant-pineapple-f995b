@@ -252,8 +252,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Digital marketing expert for all your website services. Get a free
-        website audit today.
+        Would you like to increase your website traffic, sales 10x? Contact
+        Vijay Kumar, The Best SEO Expert in Bangalore. Besides Karnataka and
+        Bangalore, he provides SEO and digital marketing services India wide.
       keyName: property
     - name: 'og:image'
       value: images/starter-preview.png
