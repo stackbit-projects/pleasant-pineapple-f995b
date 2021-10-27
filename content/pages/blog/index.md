@@ -8,7 +8,7 @@ sections:
     show_recent: false
 seo:
   title: 'Blog: Latest SEO Resources | SEO Expert in Bangalore'
-  description: 'Blog: Latest SEO Resources'
+  description: 'Blog: Latest SEO Resources | SEO Expert in Bangalore'
   extra:
     - name: 'og:type'
       value: website
