@@ -162,6 +162,9 @@ sections:
       As your content expert, I will guide your strategy, curate and improve
       existing content, as well as recommend formats.
     type: content_section
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 seo:
   title: Digital Marketing Expert in Bangalore
   description: >-
