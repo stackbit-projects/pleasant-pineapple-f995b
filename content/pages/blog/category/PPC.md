@@ -1,5 +1,5 @@
 ---
-title: Tutorials
+title: PPC
 sections:
   - type: hero_section
     title: All Posts In Tutorials
