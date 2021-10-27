@@ -114,7 +114,7 @@ seo:
       value: This is the features page
       keyName: property
     - name: 'og:image'
-      value: images/5.png
+      value: /images/social media.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
