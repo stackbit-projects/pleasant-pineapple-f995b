@@ -19,7 +19,9 @@ seo:
       value: 'Blog: Latest SEO Resources | SEO Expert in Bangalore'
       keyName: property
     - name: 'og:description'
-      value: 'Blog: Latest SEO Resources | SEO Expert in Bangalore'
+      value: >-
+        Are higher search rankings on Google more likely to be achieved with a
+        larger word count? Read on to find out.
       keyName: property
     - name: 'og:image'
       value: /images/link building.jpg
