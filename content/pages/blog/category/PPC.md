@@ -15,7 +15,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in Tutorials
+      value: Posts in PPC
       keyName: property
     - name: 'og:description'
       value: This is the category archive page
