@@ -191,7 +191,7 @@ sections:
       If required, I will provide continuous support and help keep your digital
       visibility afloat with my on-going SEO services.
     type: content_section
-  - title: lorem-ipsum
+  - title: FAQ's
     content: >-
       ## Lorem ipsum
 
