@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Contact
     align: center
+    subtitle: Call me
   - type: contact_section
 seo:
   title: Contact
