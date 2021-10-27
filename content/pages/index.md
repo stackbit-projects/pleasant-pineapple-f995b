@@ -240,8 +240,9 @@ sections:
 seo:
   title: 'SEO Expert in Bangalore | Freelance SEO Expert: Vijay Kumar C'
   description: >-
-    Digital marketing expert for all your website services. Get a free website
-    audit today.
+    Would you like to increase your website traffic, sales 10x? Contact Vijay
+    Kumar, The Best SEO Expert in Bangalore. Besides Karnataka and Bangalore, he
+    provides SEO and digital marketing services India wide.
   extra:
     - name: 'og:type'
       value: website
