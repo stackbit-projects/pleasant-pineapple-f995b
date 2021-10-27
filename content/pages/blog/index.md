@@ -16,7 +16,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: 'Blog: Latest SEO Resources | SEO Expert in Bangalore'
+      value: What Role Does Content Length Play in Google Rankings?
       keyName: property
     - name: 'og:description'
       value: >-
