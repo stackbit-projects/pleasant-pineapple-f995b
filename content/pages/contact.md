@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Contact
     align: center
-    subtitle: Call me
+    subtitle: Call me +91-9886621210
   - type: contact_section
 seo:
   title: Contact
