@@ -8,7 +8,7 @@ sections:
     show_recent: false
     author: content/data/team/vijay-kumar-c.yaml
 seo:
-  title: Posts by Dianne Ameter
+  title: Posts by Vijay Kumar C
   description: This is the author archive page
   extra:
     - name: 'og:type'
