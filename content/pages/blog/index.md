@@ -7,7 +7,7 @@ sections:
   - type: blog_feed_section
     show_recent: false
 seo:
-  title: Blog
+  title: 'Blog: Latest SEO Resources'
   description: This is the blog page
   extra:
     - name: 'og:type'
