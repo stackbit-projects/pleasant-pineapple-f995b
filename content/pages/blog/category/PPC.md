@@ -6,7 +6,7 @@ sections:
     align: center
   - type: blog_feed_section
     show_recent: false
-    category: content/data/categories/tutorials.yaml
+    category: content/data/categories/ppc.yaml
 seo:
   title: Posts in Tutorials
   description: This is the category archive page
