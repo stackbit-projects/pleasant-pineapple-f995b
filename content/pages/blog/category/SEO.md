@@ -8,7 +8,7 @@ sections:
     show_recent: false
     category: content/data/categories/seo.yaml
 seo:
-  title: Posts in General
+  title: Posts in SEO
   description: This is the category archive page
   extra:
     - name: 'og:type'
