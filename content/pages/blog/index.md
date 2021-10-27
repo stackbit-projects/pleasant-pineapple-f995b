@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: 'Blog: Latest SEO Resources | SEO Expert in Bangalore'
     - name: 'twitter:description'
-      value: This is the blog page
+      value: 'Blog: Latest SEO Resources | SEO Expert in Bangalore'
     - name: 'twitter:image'
       value: images/1.png
       relativeUrl: true
