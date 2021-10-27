@@ -270,7 +270,7 @@ seo:
         Vijay Kumar, The Best SEO Expert in Bangalore. Besides Karnataka and
         Bangalore, he provides SEO and digital marketing services India wide.
     - name: 'twitter:image'
-      value: images/starter-preview.png
+      value: /images/my logo.png
       relativeUrl: true
 layout: advanced
 ---
