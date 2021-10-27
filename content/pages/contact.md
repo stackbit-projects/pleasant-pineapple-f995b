@@ -15,7 +15,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: 'Contact: SEO Expert in Bangalore'
       keyName: property
     - name: 'og:description'
       value: 'Contact: SEO Expert in Bangalore'
