@@ -21,10 +21,11 @@ seo:
       value: This is the privacy and terms page
 layout: page
 ---
-The following Privacy Policy governs your use of the site, https://seoexpertbengaluru.com  (hereinafter referred to as the “Website” or “seoexpertbengaluru”).  This Privacy Policy document contains types of information that is offered, collected, recorded, stored, and used. The Terms and Conditions of seoexpertbengaluru are part of its Privacy Policy. By using my website, you hereby consent to this Privacy Policy and agree to its Terms and Conditions.
-
-**Usage Restrictions
+The following Privacy Policy governs your use of the site, https://seoexpertbengaluru.com  (hereinafter referred to as the “Website” or “seoexpertbengaluru”).  This Privacy Policy document contains types of information that is offered, collected, recorded, stored, and used. The Terms and Conditions of seoexpertbengaluru are part of its Privacy Policy. By using my website, you hereby consent to this Privacy Policy and agree to its Terms and Conditions.**
 **
+
+**Usage Restrictions**
+
 All information on this website is the copyrighted work of seoexpertbengaluru. Except as stated herein, none of the information may be copied, reproduced, distributed, republished, downloaded, displayed, posted, or transmitted in any form without the permission of seoexpertbengaluru. No part of the Website, including logos, graphics, sounds, or images, may be reproduced or retransmitted in any way, or by any means, without the permission of seoexpertbengaluru.
 
 **Cookies**
