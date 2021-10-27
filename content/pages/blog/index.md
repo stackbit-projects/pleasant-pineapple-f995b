@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Blog: Latest SEO Resources | SEO Expert in Bangalore'
+      value: What Role Does Content Length Play in Google Rankings?
     - name: 'twitter:description'
       value: >-
         Are higher search rankings on Google more likely to be achieved with a
