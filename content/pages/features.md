@@ -122,7 +122,7 @@ seo:
     - name: 'twitter:title'
       value: My SEO Services
     - name: 'twitter:description'
-      value: This is the features page
+      value: SEO services at affordable prices in Bangalore
     - name: 'twitter:image'
       value: /images/social media.jpg
       relativeUrl: true
