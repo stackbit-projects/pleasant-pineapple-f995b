@@ -238,7 +238,7 @@ sections:
 
     type: content_section
 seo:
-  title: Digital Marketing Expert in Bangalore
+  title: 'SEO Expert in Bangalore | Freelance SEO Expert: Vijay Kumar C'
   description: >-
     Digital marketing expert for all your website services. Get a free website
     audit today.
