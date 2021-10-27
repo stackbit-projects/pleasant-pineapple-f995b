@@ -5,6 +5,7 @@ sections:
     title: Contact
     align: center
     subtitle: Call me +91-9886621210
+    has_background: true
   - type: contact_section
 seo:
   title: Contact
