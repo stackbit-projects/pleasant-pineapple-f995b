@@ -12,7 +12,9 @@ excerpt: >-
   word count? Read on to find out.
 seo:
   title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  description: >-
+    Are higher search rankings on Google more likely to be achieved with a
+    larger word count? Read on to find out.
   extra:
     - name: 'og:type'
       value: article
