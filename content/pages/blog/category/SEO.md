@@ -1,5 +1,5 @@
 ---
-title: General
+title: SE0
 sections:
   - type: hero_section
     title: All Posts In General
