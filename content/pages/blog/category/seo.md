@@ -5,7 +5,7 @@ sections:
     title: All Posts In SEO
     align: center
   - type: blog_feed_section
-    show_recent: true
+    show_recent: false
     category: content/data/categories/seo.yaml
 seo:
   title: Posts in SEO
