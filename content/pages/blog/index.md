@@ -24,7 +24,7 @@ seo:
         larger word count? Read on to find out.
       keyName: property
     - name: 'og:image'
-      value: /images/What Role Does Content Length Play in Google Rankings (1).jpg
+      value: Blog - SEO Expert in Bangalore
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
