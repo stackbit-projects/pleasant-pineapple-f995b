@@ -1,5 +1,5 @@
 ---
-title: What is an SEO-Friendly URL?
+title: What is an Infographic in SEO??
 date: '2021-10-28'
 author: content/data/team/vijay-kumar.yaml
 categories:
