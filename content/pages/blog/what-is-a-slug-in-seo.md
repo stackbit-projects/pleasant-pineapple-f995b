@@ -4,7 +4,7 @@ date: '2021-10-28'
 author: content/data/team/vijay-kumar.yaml
 categories:
   - content/data/categories/news.yaml
-image: /images/What is an SEO-Friendly URL.jpg
+image: /images/What is a Slug in SEO.jpg
 image_alt: Post 1 placeholder image
 excerpt: >-
   Are higher search rankings on Google more likely to be achieved with a larger
