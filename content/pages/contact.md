@@ -8,17 +8,25 @@ sections:
     has_background: false
   - type: contact_section
   - title: Contact Me
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ### Request a consultation Contact Me&#xA;&#xA;Take the first
+      step&#xA;&#xA;Grow Your Business Today!
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+      Take your business in the right direction. Leave me a message or give me a
+      call. I’ll get in touch with you within 24 hours to discuss what’s best
+      for your business.
 
 
-      - Lorem ipsum
+      ### Enquire Now
 
-      - dolor sit amet
+
+      *  
+      [vijaykumarcirigimi@gmail.com](https://angry-payne-8c440e.netlify.app/vijaykumarcirigimi@gmail.com)
+
+
+      *   [+91 98866 21210](<tel:+91 98866 21210>)
     type: content_section
 seo:
   title: 'Contact: SEO Expert in Bangalore'
