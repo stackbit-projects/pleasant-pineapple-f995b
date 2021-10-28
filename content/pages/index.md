@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Is Your Website Ready for Page 1 of Google?
+    title: Freelance SEO Consultant in Bangalore
     subtitle: "Boost your online business with science-based SEO strategies.\_Let’s start a conversation"
     actions:
       - label: CALL
