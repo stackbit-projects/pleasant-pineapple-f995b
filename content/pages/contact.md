@@ -9,13 +9,13 @@ sections:
   - type: contact_section
   - title: Contact Me
     content: >
+      >
+
       > Request a consultation? Contact Me.
 
-      >
 
       > Take the first step.
 
-      >
 
       > Grow Your Business Today!
 
