@@ -1,5 +1,5 @@
 ---
-title: What Role Does Content Length Play in Google Rankings?
+title: What is Press Release in SEO?
 date: '2021-10-28'
 author: content/data/team/vijay-kumar.yaml
 categories:
