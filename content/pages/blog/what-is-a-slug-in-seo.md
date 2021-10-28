@@ -23,8 +23,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Before we dive into understanding what exactly is an SEO friendly URL,
-        let us first understand what is a URL.
+        A slug is a unique identifier that is part of your page URL. It
+        indicates what the page or article is about. The right slug will give
+        users an idea of what the page actually consists of.
       keyName: property
     - name: 'og:image'
       value: /images/What is an SEO-Friendly URL.jpg
