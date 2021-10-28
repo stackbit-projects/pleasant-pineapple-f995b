@@ -10,7 +10,7 @@ excerpt: >-
   Are higher search rankings on Google more likely to be achieved with a larger
   word count? Read on to find out.
 seo:
-  title: What is an SEO-Friendly URL?
+  title: What is an Infographic in SEO?
   description: >-
     An infographic is a visual representation of content. Simply put, it is an
     ‘information graphic’.It is a combination of images and text that simplifies
