@@ -7,7 +7,7 @@ sections:
     subtitle: Call me +91-9886621210
     has_background: false
   - type: contact_section
-  - title: Contact
+  - title: Contact Me
     content: >-
       ## Lorem ipsum
 
