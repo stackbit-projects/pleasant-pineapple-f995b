@@ -22,7 +22,7 @@ seo:
       value: What is Press Release in SEO?
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: What is Press Release in SEO?
       keyName: property
     - name: 'og:image'
       value: /images/What Role Does Content Length Play in Google Rankings (1).jpg
