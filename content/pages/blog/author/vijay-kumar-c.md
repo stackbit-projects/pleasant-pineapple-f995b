@@ -9,7 +9,7 @@ sections:
     author: content/data/team/vijay-kumar.yaml
 seo:
   title: Posts by Vijay Kumar C | SEO Expert in Bangalore
-  description: This is the author archive page
+  description: Posts by Vijay Kumar C | SEO Expert in Bangalore
   extra:
     - name: 'og:type'
       value: website
