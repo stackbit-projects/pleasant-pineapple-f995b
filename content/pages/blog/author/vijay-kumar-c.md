@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts by Vijay Kumar C
+      value: Posts by Vijay Kumar C | SEO Expert in Bangalore
     - name: 'twitter:description'
       value: This is the author archive page
     - name: 'twitter:image'
