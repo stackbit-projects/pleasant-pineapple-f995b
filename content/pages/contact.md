@@ -9,9 +9,15 @@ sections:
   - type: contact_section
   - title: Contact Me
     content: >
-      ### Request a consultation Contact Me&#xA;&#xA;Take the first
-      step&#xA;&#xA;Grow Your Business Today!
+      > Request a consultation Contact Me
 
+      >
+
+      > Take the first step
+
+      >
+
+      > Grow Your Business Today!
 
 
       Take your business in the right direction. Leave me a message or give me a
