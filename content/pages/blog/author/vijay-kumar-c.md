@@ -18,7 +18,7 @@ seo:
       value: Posts by Vijay Kumar C | SEO Expert in Bangalore
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: Posts by Vijay Kumar C | SEO Expert in Bangalore
       keyName: property
     - name: 'og:image'
       value: images/1.png
