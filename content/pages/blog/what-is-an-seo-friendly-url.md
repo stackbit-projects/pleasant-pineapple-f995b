@@ -43,7 +43,7 @@ seo:
       relativeUrl: true
 layout: post
 tags:
-  - lorem-ipsum
+  - seo friendly url
   - lorem-ipsum
 ---
 Before we dive into understanding what exactly is an SEO friendly URL, let us first understand what is a URL.
