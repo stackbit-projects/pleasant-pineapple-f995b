@@ -44,30 +44,38 @@ tags:
   - lorem-ipsum
   - lorem-ipsum
 ---
-Are higher search rankings on Google more likely to be achieved with a larger word count? Read on to find out.
+Before we dive into understanding what exactly is an SEO friendly URL, let us first understand what is a URL.
 
-An ongoing debate in SEO concerns the length of content and whether it has an impact on rankings. There are claims that Google considers word count as a factor for search results, indicating that high word counts indicate high-quality content.
+A **Uniform Resource Locator**, shortened to URL, is the virtual address given to an online resource on the World Wide Web (WWW). Just like your house has an address to understand where exactly you are located, websites also have addresses that typically provide information about them. Users and search engines access websites using their URLs. You can find the URL in the address bar of the web browser. The URL was developed by the Father of the World Wide Web, Tim Berners-Lee and Internet Engineering Task Force in 1994.
 
-We should investigate those claims and settle the debate around the importance of word count.
+### Structure of a URL
 
-### **The Claim: Length of content affects ranking**
+A URL is mainly divided into 3 parts,
 
-It is believed that having more content than your competitors will help you rank higher in search engine results. According to [SEO experts](https://www.seoexpertbengaluru.com/), a larger word count can assist in increasing your ranking position based on the theory that word count is an indicator of content quality.There are some experts who recommend a specific word count as a "sweet spot" for landing on the first page of Google. These claims lead companies and marketers to believe they must stretch their content to reach a certain word count in order to be competitive. How Content Length Affects Rankings
+Protocol – Domain/Hostname – Path/Filename 
 
-In the Reddit thread where an SEO asks how to analyze word counts in a SERP, Google's John Mueller says exactly that. After reviewing all the information available, it is clear that word count is not a ranking factor.
+For example: https://www.example.com/test.html
 
-> According to him:“Word count is not a ranking factor. Save yourself the trouble.”
+> **Protocol**
+>
+>  is an identifier that is used to access the resource. In the above example, https is the protocol used for data transfer between the browser and the website.
 
-According to Mueller, content quality is not determined by word count:
+> **Domain/Hostname**
+>
+>  is the name of the website you are trying to access and where the resource is located. As shown above, www.example.com is the website you want to browse.
 
-> "Quality is not determined by the number of words. For example, some pages contain many words that don't convey anything. Other times, very few words convey very significant information. If the details are relevant to your content (hopefully), it is up to you to decide."
+> **Path/Filename**
+>
+>  is the resource or file you want to access. The path can contain query strings, parameters, and fragments. In the example, the file you want is named test.html.
 
-As another example, Mueller explains that adding more text to a page won't improve it from Google's perspective:
+To summarize the example, you are trying to access the file, “test.html” in the domain “www.example.com” using the protocol “https”.
 
-> "Our point of view is that the number of words on a page has no impact on quality or ranking".
+### What is an SEO-Friendly URL?
 
-Therefore, adding more and more text to a page doesn't make it better."
+Many dynamic websites auto-generate URLs as part of developer coding. This results in the creation of URLs such as http://a.com/ghsgfj=sys?1112255?dfgf#hjhj which is not reader friendly. 
 
-#### **Summary of My Findings**
+This is a problem, not just for users, but also for machines trying understand what information the URL is trying to push, creating a dilemma when it comes to displaying it as a search result. Take the following example. If the URL above, http://a.com/ghsgfj=sys?1112255?dfgf#hjhj, is created as http://a.com/mobiles/nokia/lumia-phone, it automatically becomes intelligible. 
 
-It has been confirmed that the word count is not a ranking factor. Google is most concerned with satisfying the user's intent when ranking search results. To convey what a searcher needs to know, it may take 50 words, 100 words, or 1,000 words. It varies based on the query. A short piece of content is more than capable of ranking on the first page if a user seeks a quick answer to a question. Shortening content to fit a word count should not be done.
+Through the latter, you can easily tell that the page talks about Lumia Phone under the Nokia category, which in turn comes under the Mobiles category. When information is provided as such, the user and the machine are easily able to understand what the page is about. This is known as an SEO-Friendly URL.
+
+In order to create SEO friendly URLs, categorize your business process first and create URLs for each category and sub-category of services. The category names will become the keywords in your URL which is an added advantage for ranking in search results. Such URLs, that are both reader and search crawlers-friendly, along with keyword in the URL will have a better chance of ranking higher in SERPs with a good clickthrough rate.
