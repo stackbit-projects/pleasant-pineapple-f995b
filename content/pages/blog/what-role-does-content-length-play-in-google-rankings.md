@@ -41,7 +41,8 @@ seo:
       relativeUrl: true
 layout: post
 tags:
-  - lorem-ipsu
+  - seo
+  
 ---
 Are higher search rankings on Google more likely to be achieved with a larger word count? Read on to find out.
 
