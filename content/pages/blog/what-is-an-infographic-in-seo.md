@@ -23,8 +23,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Before we dive into understanding what exactly is an SEO friendly URL,
-        let us first understand what is a URL.
+        An infographic is a visual representation of content. Simply put, it is
+        an ‘information graphic’.It is a combination of images and text that
+        simplifies a message and conveys it to your audience quickly.
       keyName: property
     - name: 'og:image'
       value: /images/What is an Infographic in SEO.jpg
