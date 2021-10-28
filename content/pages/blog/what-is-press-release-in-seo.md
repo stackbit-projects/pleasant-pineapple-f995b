@@ -12,8 +12,8 @@ excerpt: >-
 seo:
   title: What is Press Release in SEO?
   description: >-
-    Are higher search rankings on Google more likely to be achieved with a
-    larger word count? Read on to find out.
+    Press releases are PR exercises employed by companies to inform users of
+    what they are working on and other developments.
   extra:
     - name: 'og:type'
       value: article
