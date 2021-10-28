@@ -62,9 +62,7 @@ In fact, it does. Press releases are not particularly SEO techniques. They are p
 
 But as an SEO expert, it would be uncharacteristic of you to not take advantage of this feature and make it worth the publish.
 
-
-### **How does a press release help with SEO?**
-
+### How does a press release help with SEO?
 
 An SEO press release may not have the power a blog post or article might, but it does help in a few ways.
 
@@ -75,3 +73,34 @@ An SEO press release may not have the power a blog post or article might, but it
 *   More traffic means more sales: The whole point of SEO is to market your company’s products and services so that users will buy them. The more users see your products, the more likely are they to make a purchase.
 
 *   Building online reputation: Regular news updates tell users about the work your company is doing, thus building a reputation. This adds to your company’s credibility.
+
+### Drawbacks of press release submissions
+
+An **SEO press release **does not have the same value as [social bookmarking](https://digivijay.in/2019/10/06/what-is-social-bookmarking-in-seo/) or [high PR directory submissions](https://digivijay.in/2019/02/12/high-pr-directory-sites/). The approach to all these SEO techniques is the same but the results are vastly different.
+
+The main disadvantage of a press release is that it becomes obsolete almost immediately. If you publish a press release on Monday, it will have become old news by Tuesday. And no one wants to read old news.
+
+Think about it!
+
+Will you read news about the Nokia 1100 that was released over a decade ago? Unless it is being relaunched, you wouldn’t even click on the link. Why Nokia 1100? Take news about the Apple iPhone X, launched two years ago. Would you read it now? The answer is plain and simple. No.
+
+Unlike blog posts and articles that evolve with time and technology, press releases fade away as the days pass by.
+
+### Is it worth writing a press release for SEO?
+
+Considering all that I’ve discussed, we come back to the same question, “does a press release really matter in SEO?”
+
+The jury is divided on this.
+
+One side says that getting backlinks through **press release submission sites **makes it a good contender for SEO. The other side looks at its short life span and doesn’t bother dealing with it at all.
+
+In conclusion, I would say this.
+
+There is no harm in writing SEO press releases. See what works for your company and go with it. Follow the same procedures as you would in regular bookmarking and submit your content to credible **press release submission sites**. The traffic you generate may not be as high, but as the cliché goes, every little bit helps.
+
+
+
+
+
+
+
