@@ -10,7 +10,7 @@ excerpt: >-
   Are higher search rankings on Google more likely to be achieved with a larger
   word count? Read on to find out.
 seo:
-  title: What is an SEO-Friendly URL?
+  title: What is a Slug in SEO?
   description: >-
     Before we dive into understanding what exactly is an SEO friendly URL, let
     us first understand what is a URL.
