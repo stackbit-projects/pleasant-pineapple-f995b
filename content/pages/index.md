@@ -29,7 +29,7 @@ sections:
       ![](/images/SEO%20Expert%20Bangalore.jpg)
 
 
-      ![](/images/RATED%205%20SEO%20Expert%20bangalore.jpg)
+      ![](/images/Ready%20to%20outsmart%20your%20competition%20\(2\).jpg)<https://g.page/r/CdhRekI2gLG6EBA>
 
 
       "Vijay Kumar is an SEO expert who understands what really matters and
