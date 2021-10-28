@@ -25,19 +25,21 @@ sections:
       I bring my creative and strategic experience together to offer the best
       SEO services for your business. Boost your website's ranking in Google
       with safe, ethical, and transparent SEO.
-    content: >+
+    content: >
       ![](/images/SEO%20Expert%20Bangalore.jpg)
+
+
+      ![](/images/RATED%205%20SEO%20Expert%20bangalore.jpg)
 
 
       "Vijay Kumar is an SEO expert who understands what really matters and
       applies it. In a field that's often filled with empty promises, it's
-      refreshing to find someone trustworthy who delivers." 
+      refreshing to find someone trustworthy who delivers."
 
 
       Would you like to increase your website traffic, sales 10x? Contact Vijay
       Kumar, The Best SEO Expert in Bangalore. Besides Karnataka and Bangalore,
-      he provides SEO and digital marketing services India wide. 
-
+      he provides SEO and digital marketing services India wide.
     type: content_section
   - title: Why My SEO Services?
     content: >
