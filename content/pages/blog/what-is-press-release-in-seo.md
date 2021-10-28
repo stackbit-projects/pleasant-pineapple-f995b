@@ -27,7 +27,7 @@ seo:
         what they are working on and other developments.
       keyName: property
     - name: 'og:image'
-      value: /images/What Role Does Content Length Play in Google Rankings (1).jpg
+      value: /images/news-consumption-generational-divide-80259204.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
