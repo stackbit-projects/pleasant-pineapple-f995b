@@ -21,7 +21,7 @@ seo:
       value: Posts by Vijay Kumar C | SEO Expert in Bangalore
       keyName: property
     - name: 'og:image'
-      value: images/1.png
+      value: /images/my logo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
