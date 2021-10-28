@@ -27,7 +27,7 @@ seo:
         let us first understand what is a URL.
       keyName: property
     - name: 'og:image'
-      value: /images/What is an SEO-Friendly URL.jpg
+      value: /images/What is an Infographic in SEO.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
