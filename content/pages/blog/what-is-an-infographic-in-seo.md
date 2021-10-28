@@ -39,7 +39,7 @@ seo:
         Before we dive into understanding what exactly is an SEO friendly URL,
         let us first understand what is a URL.
     - name: 'twitter:image'
-      value: /images/What is an SEO-Friendly URL.jpg
+      value: /images/What is an Infographic in SEO.jpg
       relativeUrl: true
 layout: post
 tags:
