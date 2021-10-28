@@ -33,7 +33,9 @@ seo:
     - name: 'twitter:title'
       value: What is Press Release in SEO?
     - name: 'twitter:description'
-      value: What is Press Release in SEO?
+      value: >-
+        Press releases are PR exercises employed by companies to inform users of
+        what they are working on and other developments.
     - name: 'twitter:image'
       value: /images/What Role Does Content Length Play in Google Rankings (1).jpg
       relativeUrl: true
