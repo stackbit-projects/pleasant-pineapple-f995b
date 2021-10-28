@@ -8,7 +8,7 @@ sections:
     show_recent: false
     category: content/data/categories/news.yaml
 seo:
-  title: Posts in SEO
+  title: Posts Related to SEO | SEO Expert in Bangalore
   description: This is the category archive page
   extra:
     - name: 'og:type'
