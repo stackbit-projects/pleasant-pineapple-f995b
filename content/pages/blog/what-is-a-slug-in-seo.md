@@ -46,7 +46,7 @@ seo:
       relativeUrl: true
 layout: post
 tags:
-  - lorem-ipsum
+  - seo
   - lorem-ipsum
 ---
 ### Slugs!
