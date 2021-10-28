@@ -34,8 +34,8 @@ seo:
       value: What is an SEO-Friendly URL?
     - name: 'twitter:description'
       value: >-
-        Are higher search rankings on Google more likely to be achieved with a
-        larger word count? Read on to find out.
+        Before we dive into understanding what exactly is an SEO friendly URL,
+        let us first understand what is a URL.
     - name: 'twitter:image'
       value: /images/What is an SEO-Friendly URL.jpg
       relativeUrl: true
