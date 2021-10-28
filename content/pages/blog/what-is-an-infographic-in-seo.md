@@ -46,7 +46,7 @@ seo:
       relativeUrl: true
 layout: post
 tags:
-  - seo friendly url
+  - seo
   - seo
 ---
 When you think of SEO strategy, the first thing that pops into your mind is content, right? You think about [writing good, relevant content](https://digivijay.in/how-to-improve-page-content-for-seo-rankings/) that is useful for your readers and that will get you oodles of traffic.
