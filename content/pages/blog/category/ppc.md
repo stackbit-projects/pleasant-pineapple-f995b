@@ -8,7 +8,7 @@ sections:
     show_recent: false
     category: content/data/categories/ppc.yaml
 seo:
-  title: Posts in PPC
+  title: Posts Related to PPC | SEO Expert in Bangalore
   description: This is the category archive page
   extra:
     - name: 'og:type'
