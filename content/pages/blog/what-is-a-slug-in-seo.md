@@ -28,7 +28,7 @@ seo:
         users an idea of what the page actually consists of.
       keyName: property
     - name: 'og:image'
-      value: /images/What is an SEO-Friendly URL.jpg
+      value: /images/What is a Slug in SEO.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
