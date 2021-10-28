@@ -22,7 +22,9 @@ seo:
       value: What is Press Release in SEO?
       keyName: property
     - name: 'og:description'
-      value: What is Press Release in SEO?
+      value: >-
+        Press releases are PR exercises employed by companies to inform users of
+        what they are working on and other developments.
       keyName: property
     - name: 'og:image'
       value: /images/What Role Does Content Length Play in Google Rankings (1).jpg
