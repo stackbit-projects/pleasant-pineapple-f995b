@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Freelance SEO Consultant in Bangalore
-    subtitle: "Boost your online business with science-based SEO strategies.\_Let’s start a conversation"
+    subtitle: "Does Your Website Qualify to Rank on Page 1 of Google?. Boost your online business with science-based SEO strategies.\_Let’s start a conversation"
     actions:
       - label: CALL
         url: /contact
