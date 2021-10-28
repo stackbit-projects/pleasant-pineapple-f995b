@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:title'
       value: Posts in Link Building
     - name: 'twitter:description'
-      value: This is the category archive page
+      value: Posts Related to Link Building | SEO Expert in Bangalore
     - name: 'twitter:image'
       value: images/1.png
       relativeUrl: true
