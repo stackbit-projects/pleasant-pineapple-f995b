@@ -31,15 +31,10 @@ sections:
       **Email:** vijaykumarcirigimi@gmail.com
 
 
-      **Phone: **+91-9886621210
+      **Phone:** +91-9886621210
 
 
-      **Address: **Domlur 14th Cross, Bangalore 560071 
-
-
-
-
-       
+      **Address:** Domlur 14th Cross, Bangalore 560071
     type: content_section
 seo:
   title: 'Contact: SEO Expert in Bangalore'
