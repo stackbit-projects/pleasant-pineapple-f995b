@@ -12,8 +12,9 @@ excerpt: >-
 seo:
   title: What is a Slug in SEO?
   description: >-
-    Before we dive into understanding what exactly is an SEO friendly URL, let
-    us first understand what is a URL.
+    A slug is a unique identifier that is part of your page URL. It indicates
+    what the page or article is about. The right slug will give users an idea of
+    what the page actually consists of.
   extra:
     - name: 'og:type'
       value: article
