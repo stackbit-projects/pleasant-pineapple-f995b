@@ -33,9 +33,7 @@ seo:
     - name: 'twitter:title'
       value: What is Press Release in SEO?
     - name: 'twitter:description'
-      value: >-
-        Are higher search rankings on Google more likely to be achieved with a
-        larger word count? Read on to find out.
+      value: What is Press Release in SEO?
     - name: 'twitter:image'
       value: /images/What Role Does Content Length Play in Google Rankings (1).jpg
       relativeUrl: true
