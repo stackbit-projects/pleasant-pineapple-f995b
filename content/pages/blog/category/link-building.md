@@ -8,7 +8,7 @@ sections:
     show_recent: false
     category: content/data/categories/link-buiilding.yaml
 seo:
-  title: Posts in Link Building
+  title: Posts Related to Link Building | SEO Expert in Bangalore
   description: This is the category archive page
   extra:
     - name: 'og:type'
