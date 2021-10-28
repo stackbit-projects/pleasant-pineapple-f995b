@@ -4,6 +4,7 @@ date: '2021-10-28'
 author: content/data/team/vijay-kumar.yaml
 categories:
   - content/data/categories/seo.yaml
+  - content/data/categories/news.yaml
 image: /images/news-consumption-generational-divide-398de85d.png
 image_alt: Post 1 placeholder image
 excerpt: >-
