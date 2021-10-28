@@ -18,7 +18,7 @@ seo:
       value: Posts Related to SEO | SEO Expert in Bangalore
       keyName: property
     - name: 'og:description'
-      value: This is the category archive page
+      value: Posts Related to SEO | SEO Expert in Bangalore
       keyName: property
     - name: 'og:image'
       value: images/1.png
