@@ -4,7 +4,7 @@ date: '2021-10-28'
 author: content/data/team/vijay-kumar.yaml
 categories:
   - content/data/categories/seo.yaml
-image: /images/What Role Does Content Length Play in Google Rankings (1).jpg
+image: /images/news-consumption-generational-divide-398de85d.png
 image_alt: Post 1 placeholder image
 excerpt: >-
   Are higher search rankings on Google more likely to be achieved with a larger
