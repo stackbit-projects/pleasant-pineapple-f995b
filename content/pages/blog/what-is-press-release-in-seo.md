@@ -45,7 +45,7 @@ seo:
 layout: post
 tags:
   - seo
-  - press release
+  - press release seo
 ---
 The advent of the digital era has completely transformed the way we are consuming information. What hasn’t changed is the need for it. As more and more channels open up for sharing content, we delve deeper and deeper into the depths of the digital realm.
 
