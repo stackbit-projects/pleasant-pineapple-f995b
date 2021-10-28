@@ -22,7 +22,9 @@ seo:
       value: What is an SEO-Friendly URL?
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: >-
+        Before we dive into understanding what exactly is an SEO friendly URL,
+        let us first understand what is a URL.
       keyName: property
     - name: 'og:image'
       value: /images/What is an SEO-Friendly URL.jpg
