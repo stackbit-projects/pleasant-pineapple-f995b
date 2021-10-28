@@ -19,7 +19,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: What Role Does Content Length Play in Google Rankings?
+      value: What is Press Release in SEO?
       keyName: property
     - name: 'og:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
