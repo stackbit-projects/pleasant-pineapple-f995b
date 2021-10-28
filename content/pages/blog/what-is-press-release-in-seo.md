@@ -44,30 +44,41 @@ tags:
   - lorem-ipsum
   - lorem-ipsum
 ---
-Are higher search rankings on Google more likely to be achieved with a larger word count? Read on to find out.
+The advent of the digital era has completely transformed the way we are consuming information. What hasn’t changed is the need for it. As more and more channels open up for sharing content, we delve deeper and deeper into the depths of the digital realm.
 
-An ongoing debate in SEO concerns the length of content and whether it has an impact on rankings. There are claims that Google considers word count as a factor for search results, indicating that high word counts indicate high-quality content.
+Traditional news has taken a nosedive and given rise to online news. No longer are people glued to their television screens for news. Their screens have ‘smartly’ morphed into online portals of immediate information.
 
-We should investigate those claims and settle the debate around the importance of word count.
+![](/images/news-consumption-generational-divide.png)
 
-### **The Claim: Length of content affects ranking**
+and news about their products, services, acquisitions, mergers, etc. In days gone by, companies circulated press releases through television or newspapers. Nowadays, since almost everything is online, press releases have made the transition to digital.
 
-It is believed that having more content than your competitors will help you rank higher in search engine results. According to [SEO experts](https://www.seoexpertbengaluru.com/), a larger word count can assist in increasing your ranking position based on the theory that word count is an indicator of content quality.There are some experts who recommend a specific word count as a "sweet spot" for landing on the first page of Google. These claims lead companies and marketers to believe they must stretch their content to reach a certain word count in order to be competitive. How Content Length Affects Rankings
+### What is a press release?
 
-In the Reddit thread where an SEO asks how to analyze word counts in a SERP, Google's John Mueller says exactly that. After reviewing all the information available, it is clear that word count is not a ranking factor.
+Press releases are PR exercises employed by companies to inform users of what they are working on and other developments.
 
-> According to him:“Word count is not a ranking factor. Save yourself the trouble.”
+However, from an SEO standpoint, one does wonder, “what exactly is the use of a **press release in SEO**? And does it really matter?”
 
-According to Mueller, content quality is not determined by word count:
+In fact, it does. Press releases are not particularly SEO techniques. They are primarily used for brand-building and reputation management. When done right, a press release can generate buzz around your brand, direct a lot of traffic to your website, and create journalistic interest.A press release mainly deals with the usefulness of the news rather than SEO.
 
-> "Quality is not determined by the number of words. For example, some pages contain many words that don't convey anything. Other times, very few words convey very significant information. If the details are relevant to your content (hopefully), it is up to you to decide."
+But as an SEO expert, it would be uncharacteristic of you to not take advantage of this feature and make it worth the publish.
 
-As another example, Mueller explains that adding more text to a page won't improve it from Google's perspective:
 
-> "Our point of view is that the number of words on a page has no impact on quality or ranking".
+**How does a press release help with SEO?**
 
-Therefore, adding more and more text to a page doesn't make it better."
 
-#### **Summary of My Findings**
+An SEO press release may not have the power a blog post or article might, but it does help in a few ways.
 
-It has been confirmed that the word count is not a ranking factor. Google is most concerned with satisfying the user's intent when ranking search results. To convey what a searcher needs to know, it may take 50 words, 100 words, or 1,000 words. It varies based on the query. A short piece of content is more than capable of ranking on the first page if a user seeks a quick answer to a question. Shortening content to fit a word count should not be done.
+
+*   Building quality backlinks: Any SEO expert will tell you that backlinks are crucial for traffic-generation. Just like you have social bookmarking sites to submit links, there are multiple press release submission sites that will host your content as well as provide valuable backlinks to your website.
+
+
+*   Boosting traffic: By adding the right keywords and linking from press release submission sites, you can boost traffic to your website.
+
+
+*   More traffic means more sales: The whole point of SEO is to market your company’s products and services so that users will buy them. The more users see your products, the more likely are they to make a purchase.
+
+
+*   Building online reputation: Regular news updates tell users about the work your company is doing, thus building a reputation. This adds to your company’s credibility.
+
+
+
