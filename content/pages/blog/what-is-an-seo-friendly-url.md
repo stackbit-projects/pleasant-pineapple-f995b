@@ -44,7 +44,7 @@ seo:
 layout: post
 tags:
   - seo friendly url
-  - lorem-ipsum
+  - se0
 ---
 Before we dive into understanding what exactly is an SEO friendly URL, let us first understand what is a URL.
 
