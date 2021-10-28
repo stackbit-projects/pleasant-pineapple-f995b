@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts in Link Building
+      value: Posts Related to Link Building | SEO Expert in Bangalore
     - name: 'twitter:description'
       value: Posts Related to Link Building | SEO Expert in Bangalore
     - name: 'twitter:image'
