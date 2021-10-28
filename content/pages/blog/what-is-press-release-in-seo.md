@@ -63,22 +63,15 @@ In fact, it does. Press releases are not particularly SEO techniques. They are p
 But as an SEO expert, it would be uncharacteristic of you to not take advantage of this feature and make it worth the publish.
 
 
-**How does a press release help with SEO?**
+### **How does a press release help with SEO?**
 
 
 An SEO press release may not have the power a blog post or article might, but it does help in a few ways.
 
-
 *   Building quality backlinks: Any SEO expert will tell you that backlinks are crucial for traffic-generation. Just like you have social bookmarking sites to submit links, there are multiple press release submission sites that will host your content as well as provide valuable backlinks to your website.
-
 
 *   Boosting traffic: By adding the right keywords and linking from press release submission sites, you can boost traffic to your website.
 
-
 *   More traffic means more sales: The whole point of SEO is to market your company’s products and services so that users will buy them. The more users see your products, the more likely are they to make a purchase.
 
-
 *   Building online reputation: Regular news updates tell users about the work your company is doing, thus building a reputation. This adds to your company’s credibility.
-
-
-
