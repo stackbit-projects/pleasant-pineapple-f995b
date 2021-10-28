@@ -12,8 +12,9 @@ excerpt: >-
 seo:
   title: What is an SEO-Friendly URL?
   description: >-
-    Before we dive into understanding what exactly is an SEO friendly URL, let
-    us first understand what is a URL.
+    An infographic is a visual representation of content. Simply put, it is an
+    ‘information graphic’.It is a combination of images and text that simplifies
+    a message and conveys it to your audience quickly.
   extra:
     - name: 'og:type'
       value: article
