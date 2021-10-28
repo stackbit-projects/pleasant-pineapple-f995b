@@ -28,11 +28,18 @@ sections:
       ### Enquire Now
 
 
-      *  
-      [vijaykumarcirigimi@gmail.com](https://angry-payne-8c440e.netlify.app/vijaykumarcirigimi@gmail.com)
+      **Email:** vijaykumarcirigimi@gmail.com
 
 
-      *   [+91 98866 21210](<tel:+91 98866 21210>)
+      **Phone: **+91-9886621210
+
+
+      **Address: **Domlur 14th Cross, Bangalore 560071 
+
+
+
+
+       
     type: content_section
 seo:
   title: 'Contact: SEO Expert in Bangalore'
