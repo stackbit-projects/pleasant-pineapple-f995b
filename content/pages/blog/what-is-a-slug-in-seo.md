@@ -19,7 +19,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: What is an SEO-Friendly URL?
+      value: What is a Slug in SEO?
       keyName: property
     - name: 'og:description'
       value: >-
