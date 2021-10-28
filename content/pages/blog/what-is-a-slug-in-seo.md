@@ -49,8 +49,6 @@ tags:
   - lorem-ipsum
   - lorem-ipsum
 ---
-
-
 ### Slugs!
 
 You must be thinking, “aren’t they those slimy creatures that give me the jitters? Ugh!”
@@ -87,11 +85,11 @@ It is always recommended to customize your slugs based on the content you’ve w
 
 A good slug can have a positive effect on your SEO. It allows you to,
 
-> **Add keywords in the URL: **
+> **Add keywords in the URL:**
 >
 > You can modify the slug to fit in the keywords you want to rank for.This makes it easy for search enginesto index your page and rank it properly. Search engines mimic the way users respond to search results. So, if you want your pages to show up for user queries, then adding the keyword in the slug is one way to ensure it happens.
 
-> **Create attractive URLs: **
+> **Create attractive URLs:**
 >
 > Your URL is one of the main things users will see on SERPs. If your URL offers a clear picture of what your page is about, then users will obviously choose your page to visit rather than anyone else’s.
 
@@ -107,29 +105,16 @@ Therefore, it is absolutely important to optimize your slugs so that users are a
 
 Now, how would you do that?
 
-*   **Include your keyword or key phrase in the slug: **Add relevant keywords that you want to rank for in the particular post’s slug. For instance, if you want to rank for “how to train koala bears”, consider using “training-koala-bears”.
+*   \*\*Include your keyword or key phrase in the slug: \*\*Add relevant keywords that you want to rank for in the particular post’s slug. For instance, if you want to rank for “how to train koala bears”, consider using “training-koala-bears”.
 
 <!---->
 
-*   **Keep the slug short and descriptive: **A short URL (usually between 50–60 characters) has a better chance of ranking within the top 10 than a long one. In fact, any URL longer than 80 characters can have a negative impact on your website’s ranking. Even the number of words you should use in the URL should not be more than five.
+*   \*\*Keep the slug short and descriptive: \*\*A short URL (usually between 50–60 characters) has a better chance of ranking within the top 10 than a long one. In fact, any URL longer than 80 characters can have a negative impact on your website’s ranking. Even the number of words you should use in the URL should not be more than five.
 
 ![](/images/optimum-url-lenght.png)
 
-*   **Filter out all ‘function words’: **Function words are used mainly for grammatical purposes rather than adding meaning to a sentence. Words such as ‘a’, ‘an’, ‘the’, ‘yes’, ‘on’, ‘from’, etc. are all function words and can easily be omitted in your slug.
+*   \*\*Filter out all ‘function words’: \*\*Function words are used mainly for grammatical purposes rather than adding meaning to a sentence. Words such as ‘a’, ‘an’, ‘the’, ‘yes’, ‘on’, ‘from’, etc. are all function words and can easily be omitted in your slug.
 
 As you can see, a **slug in SEO** is more than a descriptor. It is one of the most essential factors determining the ranking of your website in search engines.
 
 Now that you know what a slug is, try using it in your posts and see the world of difference it makes to your website.
-
-
-
-
-
-
-
-
-
-
-
-
-
