@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: What is an SEO-Friendly URL?
+      value: What is an Infographic in SEO?
     - name: 'twitter:description'
       value: >-
         Before we dive into understanding what exactly is an SEO friendly URL,
