@@ -41,7 +41,7 @@ seo:
         indicates what the page or article is about. The right slug will give
         users an idea of what the page actually consists of.
     - name: 'twitter:image'
-      value: /images/What is an SEO-Friendly URL.jpg
+      value: /images/What is a Slug in SEO.jpg
       relativeUrl: true
 layout: post
 tags:
