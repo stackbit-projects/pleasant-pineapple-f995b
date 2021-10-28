@@ -9,7 +9,7 @@ sections:
     category: content/data/categories/news.yaml
 seo:
   title: Posts Related to SEO | SEO Expert in Bangalore
-  description: This is the category archive page
+  description: Posts Related to SEO | SEO Expert in Bangalore
   extra:
     - name: 'og:type'
       value: website
