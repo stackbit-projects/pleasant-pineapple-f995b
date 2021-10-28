@@ -8,7 +8,7 @@ sections:
     show_recent: false
     author: content/data/team/vijay-kumar.yaml
 seo:
-  title: Posts by Vijay Kumar C
+  title: Posts by Vijay Kumar C | SEO Expert in Bangalore
   description: This is the author archive page
   extra:
     - name: 'og:type'
