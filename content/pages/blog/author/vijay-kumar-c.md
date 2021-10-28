@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:description'
       value: Posts by Vijay Kumar C | SEO Expert in Bangalore
     - name: 'twitter:image'
-      value: images/1.png
+      value: /images/my logo.png
       relativeUrl: true
 layout: advanced
 ---
