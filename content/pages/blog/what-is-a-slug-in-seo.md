@@ -47,7 +47,7 @@ seo:
 layout: post
 tags:
   - seo
-  - lorem-ipsum
+  - slug in seo
 ---
 ### Slugs!
 
