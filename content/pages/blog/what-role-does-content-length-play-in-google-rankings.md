@@ -40,7 +40,7 @@ seo:
       value: /images/What Role Does Content Length Play in Google Rankings (1).jpg
       relativeUrl: true
 layout: post
-tags: SEO
+tags: seo
 ---
 Are higher search rankings on Google more likely to be achieved with a larger word count? Read on to find out.
 
