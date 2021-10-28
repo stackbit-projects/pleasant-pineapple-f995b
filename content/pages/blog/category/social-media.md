@@ -8,7 +8,7 @@ sections:
     show_recent: false
     category: content/data/categories/social-media.yaml
 seo:
-  title: Posts in Social Media
+  title: Posts Related to Social Media | SEO Expert in Bangalore
   description: This is the category archive page
   extra:
     - name: 'og:type'
