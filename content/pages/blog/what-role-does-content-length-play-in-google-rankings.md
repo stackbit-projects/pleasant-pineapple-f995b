@@ -42,7 +42,7 @@ seo:
 layout: post
 tags:
   - seo
-  - slug in seo
+  - content role in seo
 ---
 Are higher search rankings on Google more likely to be achieved with a larger word count? Read on to find out.
 
