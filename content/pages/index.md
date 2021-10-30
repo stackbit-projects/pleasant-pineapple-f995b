@@ -29,20 +29,6 @@ sections:
       ![](/images/SEO%20Expert%20Bangalore.jpg)
 
 
-      ![](/images/Ready%20to%20outsmart%20your%20competition%20\(2\).jpg)
-
-
-
-      > [Check SEO Expert in Bangalore
-      Reviews](https://g.page/r/CdhRekI2gLG6EBA)
-
-      >
-
-      >  
-
-
-
-
       "Vijay Kumar is an SEO expert who understands what really matters and
       applies it. In a field that's often filled with empty promises, it's
       refreshing to find someone trustworthy who delivers."
